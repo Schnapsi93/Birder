@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:background="@color/green_dark"
+    android:padding="32dp">
+
+    <!-- Bird info -->
+    <TextView
+        android:id="@+id/tvBirdEmoji"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="🐦"
+        android:textSize="72sp"
+        android:paddingBottom="12dp" />
+
+    <TextView
+        android:id="@+id/tvCommonName"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="26sp"
+        android:textColor="@color/cream"
+        android:textStyle="bold"
+        android:gravity="center"
+        android:paddingBottom="4dp" />
+
+    <TextView
+        android:id="@+id/tvScientificName"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="15sp"
+        android:textColor="@color/green_light"
+        android:textStyle="italic"
+        android:gravity="center"
+        android:paddingBottom="4dp" />
+
+    <TextView
+        android:id="@+id/tvSoundType"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="13sp"
+        android:textColor="@color/green_light"
+        android:paddingBottom="32dp" />
+
+    <!-- Seek bar -->
+    <SeekBar
+        android:id="@+id/seekBar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:progressTint="@color/green_light"
+        android:thumbTint="@color/cream"
+        android:paddingBottom="8dp" />
+
+    <!-- Time labels -->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:paddingBottom="32dp">
+        <TextView
+            android:id="@+id/tvElapsed"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="0:00"
+            android:textColor="@color/green_light" />
+        <TextView
+            android:id="@+id/tvDuration"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="0:00"
+            android:textColor="@color/green_light" />
+    </LinearLayout>
+
+    <!-- Playback controls: Prev | Play/Pause | Next -->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:gravity="center"
+        android:paddingBottom="32dp">
+
+        <Button
+            android:id="@+id/btnPrev"
+            android:layout_width="80dp"
+            android:layout_height="52dp"
+            android:text="⏮"
+            android:textSize="20sp"
+            android:backgroundTint="@color/green_mid"
+            android:textColor="@color/cream"
+            android:layout_marginEnd="12dp" />
+
+        <Button
+            android:id="@+id/btnPlayPause"
+            android:layout_width="120dp"
+            android:layout_height="65dp"
+            android:layout_marginEnd="12dp"
+            android:backgroundTint="@color/green_mid"
+            android:text="▶  Play"
+            android:textColor="@color/cream"
+            android:textSize="16sp" />
+
+        <Button
+            android:id="@+id/btnNext"
+            android:layout_width="80dp"
+            android:layout_height="52dp"
+            android:text="⏭"
+            android:textSize="20sp"
+            android:backgroundTint="@color/green_mid"
+            android:textColor="@color/cream" />
+    </LinearLayout>
+
+    <!-- Stop game button -->
+    <Button
+        android:id="@+id/btnStop"
+        android:layout_width="120dp"
+        android:layout_height="48dp"
+        android:text="End Game"
+        android:textSize="15sp"
+        android:textColor="@color/white"
+        android:backgroundTint="@color/green_mid"
+        android:layout_marginBottom="20dp" />
+
+    <!-- Metadata footer -->
+    <TextView
+        android:id="@+id/tvMeta"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="12sp"
+        android:textColor="@color/green_light"
+        android:gravity="center" />
+
+</LinearLayout>

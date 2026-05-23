@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/green_dark">
+
+    <!-- Header -->
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="🐦 Set Species"
+        android:textSize="24sp"
+        android:textColor="@color/cream"
+        android:textStyle="bold"
+        android:paddingHorizontal="20dp"
+        android:paddingTop="40dp"
+        android:paddingBottom="12dp" />
+
+    <!-- Counter -->
+    <TextView
+        android:id="@+id/tvCount"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Loading..."
+        android:textSize="13sp"
+        android:textColor="@color/green_light"
+        android:paddingHorizontal="20dp"
+        android:paddingBottom="10dp" />
+
+    <!-- Search box -->
+    <EditText
+        android:id="@+id/etSearch"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Search species..."
+        android:textColorHint="@color/green_light"
+        android:textColor="@color/cream"
+        android:backgroundTint="@color/green_mid"
+        android:paddingHorizontal="20dp"
+        android:paddingVertical="10dp"
+        android:inputType="text"
+        android:imeOptions="actionDone"
+        android:layout_marginHorizontal="16dp"
+        android:layout_marginBottom="8dp" />
+
+    <!-- Toggle name type -->
+    <Button
+        android:id="@+id/btnToggleName"
+        android:layout_width="wrap_content"
+        android:layout_height="40dp"
+        android:text="Show Scientific Name"
+        android:textSize="13sp"
+        android:textColor="@color/cream"
+        android:backgroundTint="@color/green_mid"
+        android:layout_marginHorizontal="16dp"
+        android:layout_marginBottom="8dp" />
+
+    <!-- Hint -->
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Long press list to select / deselect all"
+        android:textSize="11sp"
+        android:textColor="@color/green_light"
+        android:paddingHorizontal="20dp"
+        android:paddingBottom="8dp" />
+
+    <!-- Species list -->
+    <ListView
+        android:id="@+id/listView"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:divider="@color/green_mid"
+        android:dividerHeight="1dp" />
+
+</LinearLayout>

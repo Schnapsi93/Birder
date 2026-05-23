@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/green_dark"
+    android:padding="24dp">
+
+    <!-- Header -->
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="⚙️ Settings"
+        android:textSize="28sp"
+        android:textColor="@color/cream"
+        android:textStyle="bold"
+        android:paddingTop="24dp"
+        android:paddingBottom="32dp" />
+
+    <!-- Listening Duration section -->
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Listening Duration"
+        android:textSize="18sp"
+        android:textColor="@color/cream"
+        android:textStyle="bold"
+        android:paddingBottom="4dp" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="How many seconds each bird sound plays before advancing to the next one. Set 0 to play the full recording."
+        android:textSize="13sp"
+        android:textColor="@color/green_light"
+        android:paddingBottom="12dp" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:gravity="center_vertical"
+        android:paddingBottom="32dp">
+
+        <EditText
+            android:id="@+id/etListeningDuration"
+            android:layout_width="100dp"
+            android:layout_height="wrap_content"
+            android:inputType="number"
+            android:textColor="@color/cream"
+            android:textSize="22sp"
+            android:backgroundTint="@color/green_mid"
+            android:gravity="center"
+            android:paddingHorizontal="12dp"
+            android:paddingVertical="8dp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="  seconds"
+            android:textSize="16sp"
+            android:textColor="@color/green_light" />
+
+    </LinearLayout>
+
+    <!-- Divider — more settings added below this line in future -->
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="@color/green_mid"
+        android:layout_marginBottom="32dp" />
+
+    <!-- Hands Free Mode section -->
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Hands Free Mode"
+        android:textSize="18sp"
+        android:textColor="@color/cream"
+        android:textStyle="bold"
+        android:paddingBottom="4dp" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="When ON, the bird's common name is spoken after each song."
+        android:textSize="13sp"
+        android:textColor="@color/green_light"
+        android:paddingBottom="12dp" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:gravity="center_vertical"
+        android:paddingBottom="32dp">
+
+        <ToggleButton
+            android:id="@+id/toggleHandsFree"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textOn="ON"
+            android:textOff="OFF"
+            android:checked="false"
+            android:textSize="16sp"
+            android:textColor="@color/cream"
+            android:backgroundTint="@color/green_mid" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="  Speak bird name after each song"
+            android:textSize="14sp"
+            android:textColor="@color/green_light" />
+
+    </LinearLayout>
+
+    <!-- TTS Volume section -->
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Voice Announcement Volume"
+        android:textSize="18sp"
+        android:textColor="@color/cream"
+        android:textStyle="bold"
+        android:paddingBottom="4dp" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Volume of the bird name spoken in Hands Free mode."
+        android:textSize="13sp"
+        android:textColor="@color/green_light"
+        android:paddingBottom="12dp" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:gravity="center_vertical"
+        android:paddingBottom="32dp">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="0  "
+            android:textColor="@color/green_light"
+            android:textSize="14sp" />
+
+        <SeekBar
+            android:id="@+id/seekBarTtsVolume"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:max="10"
+            android:progress="10"
+            android:progressTint="@color/green_light"
+            android:thumbTint="@color/cream" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="  10"
+            android:textColor="@color/green_light"
+            android:textSize="14sp" />
+
+        <TextView
+            android:id="@+id/tvTtsVolumeValue"
+            android:layout_width="32dp"
+            android:layout_height="wrap_content"
+            android:text="10"
+            android:textColor="@color/cream"
+            android:textSize="16sp"
+            android:textStyle="bold"
+            android:gravity="center"
+            android:layout_marginStart="12dp" />
+
+    </LinearLayout>
+
+    <!-- Divider -->
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="@color/green_mid"
+        android:layout_marginBottom="32dp" />
+
+    <!-- Divider -->
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="@color/green_mid"
+        android:layout_marginBottom="32dp" />
+
+    <!-- Save button -->
+    <Button
+        android:id="@+id/btnSave"
+        android:layout_width="200dp"
+        android:layout_height="56dp"
+        android:text="💾  Save"
+        android:textSize="18sp"
+        android:textColor="@color/cream"
+        android:backgroundTint="@color/green_mid"
+        android:layout_gravity="center_horizontal" />
+
+</LinearLayout>

@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/green_dark"
+    android:padding="20dp">
+
+    <!-- Top row: title + score -->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:gravity="center_vertical"
+        android:paddingTop="24dp"
+        android:paddingBottom="16dp">
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="Quiz Mode"
+            android:textSize="24sp"
+            android:textColor="@color/cream"
+            android:textStyle="bold" />
+
+        <!-- Score block top-right: progress on top, score below -->
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:gravity="end">
+
+            <TextView
+                android:id="@+id/tvProgress"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="1/10"
+                android:textSize="16sp"
+                android:textColor="@color/green_light" />
+
+            <TextView
+                android:id="@+id/tvScore"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="0"
+                android:textSize="28sp"
+                android:textColor="@color/cream"
+                android:textStyle="bold" />
+        </LinearLayout>
+    </LinearLayout>
+
+    <!-- Bird icon — no name shown -->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:gravity="center"
+        android:orientation="vertical"
+        android:layout_marginBottom="15dp">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingTop="8dp"
+            android:text="Which bird is this?"
+            android:textColor="@color/green_light"
+            android:textSize="18sp" />
+
+        <!-- Bird info -->
+        <TextView
+            android:id="@+id/tvBirdEmoji"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="🐦"
+            android:textSize="72sp"
+            android:paddingBottom="12dp" />
+
+        <TextView
+            android:id="@+id/tvCommonName"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="26sp"
+            android:textColor="@color/cream"
+            android:textStyle="bold"
+            android:gravity="center"
+            android:paddingBottom="4dp" />
+
+        <TextView
+            android:id="@+id/tvScientificName"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="15sp"
+            android:textColor="@color/green_light"
+            android:textStyle="italic"
+            android:gravity="center"
+            android:paddingBottom="4dp" />
+
+        <TextView
+            android:id="@+id/tvSoundType"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="13sp"
+            android:textColor="@color/green_light"
+            android:paddingBottom="32dp" />
+
+    </LinearLayout>
+
+    <!-- Answer buttons — 2 columns x 3 rows -->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_marginBottom="16dp">
+
+        <!-- Row 1 -->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <Button
+                android:id="@+id/btnAnswer1"
+                android:layout_width="0dp"
+                android:layout_height="80dp"
+                android:layout_weight="1"
+                android:layout_margin="4dp"
+                android:textSize="13sp"
+                android:textColor="@color/cream"
+                android:backgroundTint="@color/green_mid"
+                android:gravity="center"
+                android:maxLines="2"
+                android:ellipsize="end" />
+
+            <Button
+                android:id="@+id/btnAnswer2"
+                android:layout_width="0dp"
+                android:layout_height="80dp"
+                android:layout_weight="1"
+                android:layout_margin="4dp"
+                android:textSize="13sp"
+                android:textColor="@color/cream"
+                android:backgroundTint="@color/green_mid"
+                android:gravity="center"
+                android:maxLines="2"
+                android:ellipsize="end" />
+
+        </LinearLayout>
+
+        <!-- Row 2 -->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <Button
+                android:id="@+id/btnAnswer3"
+                android:layout_width="0dp"
+                android:layout_height="80dp"
+                android:layout_weight="1"
+                android:layout_margin="4dp"
+                android:textSize="13sp"
+                android:textColor="@color/cream"
+                android:backgroundTint="@color/green_mid"
+                android:gravity="center"
+                android:maxLines="2"
+                android:ellipsize="end" />
+
+            <Button
+                android:id="@+id/btnAnswer4"
+                android:layout_width="0dp"
+                android:layout_height="80dp"
+                android:layout_weight="1"
+                android:layout_margin="4dp"
+                android:textSize="13sp"
+                android:textColor="@color/cream"
+                android:backgroundTint="@color/green_mid"
+                android:gravity="center"
+                android:maxLines="2"
+                android:ellipsize="end" />
+
+        </LinearLayout>
+
+        <!-- Row 3 -->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <Button
+                android:id="@+id/btnAnswer5"
+                android:layout_width="0dp"
+                android:layout_height="80dp"
+                android:layout_weight="1"
+                android:layout_margin="4dp"
+                android:textSize="13sp"
+                android:textColor="@color/cream"
+                android:backgroundTint="@color/green_mid"
+                android:gravity="center"
+                android:maxLines="2"
+                android:ellipsize="end" />
+
+            <Button
+                android:id="@+id/btnAnswer6"
+                android:layout_width="0dp"
+                android:layout_height="80dp"
+                android:layout_weight="1"
+                android:layout_margin="4dp"
+                android:textSize="13sp"
+                android:textColor="@color/cream"
+                android:backgroundTint="@color/green_mid"
+                android:gravity="center"
+                android:maxLines="2"
+                android:ellipsize="end" />
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+    <!-- Countdown progress bar -->
+    <ProgressBar
+        android:id="@+id/progressBarTime"
+        style="?android:attr/progressBarStyleHorizontal"
+        android:layout_width="match_parent"
+        android:layout_height="12dp"
+        android:progressTint="@color/green_light"
+        android:progressBackgroundTint="@color/green_mid"
+        android:max="50"
+        android:progress="50"
+        android:layout_marginBottom="35dp" />
+
+</LinearLayout>

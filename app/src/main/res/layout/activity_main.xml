@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:background="@color/green_dark"
+    android:padding="40dp">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="🐦"
+        android:textSize="72sp"
+        android:paddingBottom="8dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Birder"
+        android:textSize="48sp"
+        android:textColor="@color/cream"
+        android:textStyle="bold"
+        android:paddingBottom="16dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Learn birds by their song"
+        android:textSize="16sp"
+        android:textColor="@color/green_light"
+        android:paddingBottom="64dp" />
+
+    <!-- Random Learn button -->
+    <Button
+        android:id="@+id/btnRandomLearn"
+        android:layout_width="240dp"
+        android:layout_height="64dp"
+        android:text="🎵  Random Learn"
+        android:textSize="18sp"
+        android:textColor="@color/cream"
+        android:backgroundTint="@color/green_mid"/>
+    <!--android:layout_marginBottom="20dp" -->
+
+    <!-- Quiz Mode button (blank for now) -->
+    <Button
+        android:id="@+id/btnQuiz"
+        android:layout_width="240dp"
+        android:layout_height="64dp"
+        android:text="🧠  Quiz Mode"
+        android:textSize="18sp"
+        android:textColor="@color/cream"
+        android:backgroundTint="@color/green_mid" />
+        <!--android:alpha="0.5"-->
+
+
+    <!--<TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Coming soon"
+        android:textSize="12sp"
+        android:textColor="@color/green_light"
+        android:paddingTop="6dp" /> -->
+
+    <ProgressBar
+        android:id="@+id/progressBar"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:indeterminateTint="@color/green_light"
+        android:visibility="gone"
+        android:layout_marginBottom="16dp" />
+
+    <!-- Set Species button -->
+    <Button
+        android:id="@+id/btnSetSpecies"
+        android:layout_width="240dp"
+        android:layout_height="64dp"
+        android:text="🐦  Set Species"
+        android:textSize="18sp"
+        android:textColor="@color/cream"
+        android:backgroundTint="@color/green_mid"
+        android:layout_marginBottom="20dp" />
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="@color/green_mid"
+        android:layout_marginBottom="20dp" />
+    <!-- Set Settings button -->
+    <Button
+        android:id="@+id/btnSettings"
+        android:layout_width="240dp"
+        android:layout_height="64dp"
+        android:layout_marginBottom="20dp"
+        android:backgroundTint="@color/green_mid"
+        android:text="Settings"
+        android:textColor="@color/cream"
+        android:textSize="18sp" />
+</LinearLayout>

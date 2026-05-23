@@ -1,0 +1,5866 @@
+{
+  "Colinus virginianus": {
+    "song": [
+      {
+        "xc_id": "567479",
+        "scientific_name": "Colinus virginianus",
+        "common_name": "Northern Bobwhite",
+        "quality": "A",
+        "length": "1:23",
+        "recordist": "Dare Šere",
+        "country": "Slovenia",
+        "date": "2020-06-11",
+        "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+        "xc_url": "https://xeno-canto.org/567479"
+      }
+    ],
+    "call": [],
+    "alarm call": [],
+    "flight call": []
+  },
+  "Phasianus colchicus": {
+    "song": [
+      {
+        "xc_id": "990608",
+        "scientific_name": "Phasianus colchicus",
+        "common_name": "Common Pheasant",
+        "quality": "B",
+        "length": "0:04",
+        "recordist": "João Ferreira Tomás",
+        "country": "Slovenia",
+        "date": "2025-04-16",
+        "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "xc_url": "https://xeno-canto.org/990608"
+      }
+    ],
+    "call": [],
+    "alarm call": [],
+    "flight call": []
+  },
+  "Coturnix coturnix": {
+    "song": [
+      {
+        "xc_id": "718081",
+        "scientific_name": "Coturnix coturnix",
+        "common_name": "Common Quail",
+        "quality": "B",
+        "length": "1:06",
+        "recordist": "Dare Šere",
+        "country": "Slovenia",
+        "date": "2022-04-24",
+        "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+        "xc_url": "https://xeno-canto.org/718081"
+      }
+    ],
+    "call": [],
+    "alarm call": [],
+    "flight call": []
+  },
+  "Caprimulgus europaeus": {
+    "song": [],
+    "call": [],
+    "alarm call": [],
+    "flight call": []
+  },
+  "Cuculus canorus": {
+    "song": [
+      {
+        "xc_id": "716596",
+        "scientific_name": "Cuculus canorus",
+        "common_name": "Common Cuckoo",
+        "quality": "B",
+        "length": "0:13",
+        "recordist": "Dare Šere",
+        "country": "Slovenia",
+        "date": "2022-04-19",
+        "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+        "xc_url": "https://xeno-canto.org/716596"
+      },
+      {
+        "xc_id": "648024",
+        "scientific_name": "Cuculus canorus",
+        "common_name": "Common Cuckoo",
+        "quality": "B",
+        "length": "2:00",
+        "recordist": "Dare Šere",
+        "country": "Slovenia",
+        "date": "2021-05-11",
+        "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+        "xc_url": "https://xeno-canto.org/648024"
+      },
+      {
+        "xc_id": "1005075",
+        "scientific_name": "Cuculus canorus",
+        "common_name": "Common Cuckoo",
+        "quality": "C",
+        "length": "0:04",
+        "recordist": "Filippo Ceccolini",
+        "country": "Slovenia",
+        "date": "2025-05-30",
+        "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "xc_url": "https://xeno-canto.org/1005075"
+      }
+    ],
+    "call": [],
+    "alarm call": [],
+    "flight call": []
+  },
+  "Crex crex": {
+    "song": [
+      {
+        "xc_id": "1107922",
+        "scientific_name": "Crex crex",
+        "common_name": "Corn Crake",
+        "quality": "A",
+        "length": "0:14",
+        "recordist": "Dare Šere",
+        "country": "Slovenia",
+        "date": "2026-05-10",
+        "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+        "xc_url": "https://xeno-canto.org/1107922"
+      },
+      {
+        "xc_id": "1010773",
+        "scientific_name": "Crex crex",
+        "common_name": "Corn Crake",
+        "quality": "B",
+        "length": "1:00",
+        "recordist": "Marco Preziosi",
+        "country": "Slovenia",
+        "date": "2025-06-19",
+        "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "xc_url": "https://xeno-canto.org/1010773"
+      },
+      {
+        "xc_id": "1007528",
+        "scientific_name": "Crex crex",
+        "common_name": "Corn Crake",
+        "quality": "B",
+        "length": "0:10",
+        "recordist": "Dare Šere",
+        "country": "Slovenia",
+        "date": "2025-05-07",
+        "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+        "xc_url": "https://xeno-canto.org/1007528"
+      },
+      {
+        "xc_id": "802762",
+        "scientific_name": "Crex crex",
+        "common_name": "Corn Crake",
+        "quality": "B",
+        "length": "0:29",
+        "recordist": "Dare Šere",
+        "country": "Slovenia",
+        "date": "2023-05-21",
+        "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+        "xc_url": "https://xeno-canto.org/802762"
+      },
+      {
+        "xc_id": "561639",
+        "scientific_name": "Crex crex",
+        "common_name": "Corn Crake",
+        "quality": "B",
+        "length": "0:43",
+        "recordist": "Dare Šere",
+        "country": "Slovenia",
+        "date": "2020-05-24",
+        "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+        "xc_url": "https://xeno-canto.org/561639"
+      }
+    ],
+    "call": [],
+    "alarm call": [],
+    "flight call": []
+  },
+  "Grus grus": {
+    "song": [],
+    "call": [
+      {
+        "xc_id": "784499",
+        "scientific_name": "Grus grus",
+        "common_name": "Common Crane",
+        "quality": "B",
+        "length": "0:26",
+        "recordist": "Dare Šere",
+        "country": "Slovenia",
+        "date": "2023-03-07",
+        "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+        "xc_url": "https://xeno-canto.org/784499"
+      },
+      {
+        "xc_id": "703064",
+        "scientific_name": "Grus grus",
+        "common_name": "Common Crane",
+        "quality": "B",
+        "length": "1:14",
+        "recordist": "Dare Šere",
+        "country": "Slovenia",
+        "date": "2022-02-18",
+        "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+        "xc_url": "https://xeno-canto.org/703064"
+      },
+      {
+        "xc_id": "687667",
+        "scientific_name": "Grus grus",
+        "common_name": "Common Crane",
+        "quality": "B",
+        "length": "0:28",
+        "recordist": "Dare Šere",
+        "country": "Slovenia",
+        "date": "2021-11-18",
+        "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+        "xc_url": "https://xeno-canto.org/687667"
+      },
+      {
+        "xc_id": "398635",
+        "scientific_name": "Grus grus",
+        "common_name": "Common Crane",
+        "quality": "B",
+        "length": "1:28",
+        "recordist": "Dare Šere",
+        "country": "Slovenia",
+        "date": "2018-01-06",
+        "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "xc_url": "https://xeno-canto.org/398635"
+      }
+    ],
+    "alarm call": [],
+    "flight call": [
+      {
+        "xc_id": "784499",
+        "scientific_name": "Grus grus",
+        "common_name": "Common Crane",
+        "quality": "B",
+        "length": "0:26",
+        "recordist": "Dare Šere",
+        "country": "Slovenia",
+        "date": "2023-03-07",
+        "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+        "xc_url": "https://xeno-canto.org/784499"
+      },
+      {
+        "xc_id": "703064",
+        "scientific_name": "Grus grus",
+        "common_name": "Common Crane",
+        "quality": "B",
+        "length": "1:14",
+        "recordist": "Dare Šere",
+        "country": "Slovenia",
+        "date": "2022-02-18",
+        "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+        "xc_url": "https://xeno-canto.org/703064"
+      },
+      {
+        "xc_id": "687667",
+        "scientific_name": "Grus grus",
+        "common_name": "Common Crane",
+        "quality": "B",
+        "length": "0:28",
+        "recordist": "Dare Šere",
+        "country": "Slovenia",
+        "date": "2021-11-18",
+        "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+        "xc_url": "https://xeno-canto.org/687667"
+      }
+    ]
+  },
+  "Vanellus vanellus": {
+    "song": [],
+    "call": [
+      {
+        "xc_id": "729898",
+        "scientific_name": "Vanellus vanellus",
+        "common_name": "Northern Lapwing",
+        "quality": "B",
+        "length": "0:51",
+        "recordist": "Branislav Oblučar",
+        "country": "Slovenia",
+        "date": "2022-06-03",
+        "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "xc_url": "https://xeno-canto.org/729898"
+      }
+    ],
+    "alarm call": [
+      {
+        "xc_id": "729898",
+        "scientific_name": "Vanellus vanellus",
+        "common_name": "Northern Lapwing",
+        "quality": "B",
+        "length": "0:51",
+        "recordist": "Branislav Oblučar",
+        "country": "Slovenia",
+        "date": "2022-06-03",
+        "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "xc_url": "https://xeno-canto.org/729898"
+      }
+    ],
+    "flight call": []
+  },
+  "Charadrius morinellus": {
+    "song": [],
+    "call": [
+      {
+        "xc_id": "825355",
+        "scientific_name": "Charadrius morinellus",
+        "common_name": "Eurasian Dotterel",
+        "quality": "B",
+        "length": "0:17",
+        "recordist": "Dare Šere",
+        "country": "Slovenia",
+        "date": "2023-08-27",
+        "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+        "xc_url": "https://xeno-canto.org/825355"
+      }
+    ],
+    "alarm call": [],
+    "flight call": []
+  },
+  "Numenius arquata": {
+    "song": [
+      {
+        "xc_id": "645350",
+        "scientific_name": "Numenius arquata",
+        "common_name": "Eurasian Curlew",
+        "quality": "B",
+        "length": "0:09",
+        "recordist": "Dare Šere",
+        "country": "Slovenia",
+        "date": "2021-05-04",
+        "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+        "xc_url": "https://xeno-canto.org/645350"
+      }
+    ],
+    "call": [],
+    "alarm call": [],
+    "flight call": []
+  },
+  "Tringa ochropus": {
+    "song": [],
+    "call": [
+      {
+        "xc_id": "629727",
+        "scientific_name": "Tringa ochropus",
+        "common_name": "Green Sandpiper",
+        "quality": "B",
+        "length": "1:16",
+        "recordist": "Dare Šere",
+        "country": "Slovenia",
+        "date": "2021-03-17",
+        "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+        "xc_url": "https://xeno-canto.org/629727"
+      }
+    ],
+    "alarm call": [],
+    "flight call": []
+  },
+  "Buteo buteo": {
+    "song": [],
+    "call": [
+      {
+        "xc_id": "704007",
+        "scientific_name": "Buteo buteo",
+        "common_name": "Common Buzzard",
+        "quality": "C",
+        "length": "0:41",
+        "recordist": "Dare Šere",
+        "country": "Slovenia",
+        "date": "2022-02-22",
+        "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+        "xc_url": "https://xeno-canto.org/704007"
+      },
+      {
+        "xc_id": "559182",
+        "scientific_name": "Buteo buteo",
+        "common_name": "Common Buzzard",
+        "quality": "C",
+        "length": "1:21",
+        "recordist": "Dare Šere",
+        "country": "Slovenia",
+        "date": "2020-05-17",
+        "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+        "xc_url": "https://xeno-canto.org/559182"
+      }
+    ],
+    "alarm call": [
+      {
+        "xc_id": "559182",
+        "scientific_name": "Buteo buteo",
+        "common_name": "Common Buzzard",
+        "quality": "C",
+        "length": "1:21",
+        "recordist": "Dare Šere",
+        "country": "Slovenia",
+        "date": "2020-05-17",
+        "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+        "xc_url": "https://xeno-canto.org/559182"
+      }
+    ],
+    "flight call": []
+  },
+  "Aegolius funereus": {
+    "song": [
+      {
+        "xc_id": "937568",
+        "scientific_name": "Aegolius funereus",
+        "common_name": "Boreal Owl",
+        "quality": "A",
+        "length": "3:08",
+        "recordist": "Al Vrezec",
+        "country": "Slovenia",
+        "date": "2010-03-16",
+        "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "xc_url": "https://xeno-canto.org/937568"
+      }
+    ],
+    "call": [],
+    "alarm call": [],
+    "flight call": []
+  },
+  "Glaucidium passerinum": {
+    "song": [
+      {
+        "xc_id": "657103",
+        "scientific_name": "Glaucidium passerinum",
+        "common_name": "Eurasian Pygmy Owl",
+        "quality": "B",
+        "length": "0:13",
+        "recordist": "Dare Šere",
+        "country": "Slovenia",
+        "date": "2021-06-16",
+        "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+        "xc_url": "https://xeno-canto.org/657103"
+      },
+      {
+        "xc_id": "990606",
+        "scientific_name": "Glaucidium passerinum",
+        "common_name": "Eurasian Pygmy Owl",
+        "quality": "C",
+        "length": "0:06",
+        "recordist": "João Tomás",
+        "country": "Slovenia",
+        "date": "2025-04-16",
+        "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "xc_url": "https://xeno-canto.org/990606"
+      }
+    ],
+    "call": [],
+    "alarm call": [],
+    "flight call": []
+  },
+  "Otus scops": {
+    "song": [
+      {
+        "xc_id": "661816",
+        "scientific_name": "Otus scops",
+        "common_name": "Eurasian Scops Owl",
+        "quality": "B",
+        "length": "1:14",
+        "recordist": "Dare Šere",
+        "country": "Slovenia",
+        "date": "2021-07-05",
+        "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+        "xc_url": "https://xeno-canto.org/661816"
+      }
+    ],
+    "call": [],
+    "alarm call": [],
+    "flight call": []
+  },
+  "Asio otus": {
+    "song": [],
+    "call": [
+      {
+        "xc_id": "103862",
+        "scientific_name": "Asio otus",
+        "common_name": "Long-eared Owl",
+        "quality": "B",
+        "length": "0:38",
+        "recordist": "Eva",
+        "country": "Slovenia",
+        "date": "2012-06-15",
+        "license": "https://creativecommons.org/licenses/by-nc-nd/2.5/",
+        "xc_url": "https://xeno-canto.org/103862"
+      }
+    ],
+    "alarm call": [],
+    "flight call": []
+  },
+  "Strix aluco": {
+    "song": [
+      {
+        "xc_id": "937567",
+        "scientific_name": "Strix aluco",
+        "common_name": "Tawny Owl",
+        "quality": "A",
+        "length": "0:38",
+        "recordist": "Al Vrezec",
+        "country": "Slovenia",
+        "date": "2011-03-18",
+        "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "xc_url": "https://xeno-canto.org/937567"
+      }
+    ],
+    "call": [
+      {
+        "xc_id": "1009577",
+        "scientific_name": "Strix aluco",
+        "common_name": "Tawny Owl",
+        "quality": "A",
+        "length": "0:28",
+        "recordist": "Marco Preziosi",
+        "country": "Slovenia",
+        "date": "2025-06-18",
+        "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "xc_url": "https://xeno-canto.org/1009577"
+      }
+    ],
+    "alarm call": [],
+    "flight call": []
+  },
+  "Strix uralensis": {
+    "song": [
+      {
+        "xc_id": "1010740",
+        "scientific_name": "Strix uralensis",
+        "common_name": "Ural Owl",
+        "quality": "B",
+        "length": "1:50",
+        "recordist": "Marco Preziosi",
+        "country": "Slovenia",
+        "date": "2025-06-19",
+        "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "xc_url": "https://xeno-canto.org/1010740"
+      },
+      {
+        "xc_id": "937564",
+        "scientific_name": "Strix uralensis",
+        "common_name": "Ural Owl",
+        "quality": "B",
+        "length": "1:03",
+        "recordist": "Al Vrezec",
+        "country": "Slovenia",
+        "date": "2007-04-28",
+        "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "xc_url": "https://xeno-canto.org/937564"
+      }
+    ],
+    "call": [],
+    "alarm call": [],
+    "flight call": []
+  },
+  "Upupa epops": {
+    "song": [
+      {
+        "xc_id": "303733",
+        "scientific_name": "Upupa epops",
+        "common_name": "Eurasian Hoopoe",
+        "quality": "A",
+        "length": "1:03",
+        "recordist": "Dare Šere",
+        "country": "Slovenia",
+        "date": "2015-05-09",
+        "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "xc_url": "https://xeno-canto.org/303733"
+      }
+    ],
+    "call": [],
+    "alarm call": [],
+    "flight call": []
+  },
+  "Alcedo atthis": {
+    "song": [],
+    "call": [
+      {
+        "xc_id": "990501",
+        "scientific_name": "Alcedo atthis",
+        "common_name": "Common Kingfisher",
+        "quality": "B",
+        "length": "0:07",
+        "recordist": "João Tomás",
+        "country": "Slovenia",
+        "date": "2025-04-13",
+        "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "xc_url": "https://xeno-canto.org/990501"
+      }
+    ],
+    "alarm call": [],
+    "flight call": [
+      {
+        "xc_id": "990501",
+        "scientific_name": "Alcedo atthis",
+        "common_name": "Common Kingfisher",
+        "quality": "B",
+        "length": "0:07",
+        "recordist": "João Tomás",
+        "country": "Slovenia",
+        "date": "2025-04-13",
+        "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "xc_url": "https://xeno-canto.org/990501"
+      }
+    ]
+  },
+  "Merops apiaster": {
+    "song": [],
+    "call": [
+      {
+        "xc_id": "555749",
+        "scientific_name": "Merops apiaster",
+        "common_name": "European Bee-eater",
+        "quality": "B",
+        "length": "0:06",
+        "recordist": "Dare Šere",
+        "country": "Slovenia",
+        "date": "2020-05-08",
+        "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+        "xc_url": "https://xeno-canto.org/555749"
+      }
+    ],
+    "alarm call": [],
+    "flight call": [
+      {
+        "xc_id": "555749",
+        "scientific_name": "Merops apiaster",
+        "common_name": "European Bee-eater",
+        "quality": "B",
+        "length": "0:06",
+        "recordist": "Dare Šere",
+        "country": "Slovenia",
+        "date": "2020-05-08",
+        "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+        "xc_url": "https://xeno-canto.org/555749"
+      }
+    ]
+  },
+  "Jynx torquilla": {
+    "song": [
+      {
+        "xc_id": "717176",
+        "scientific_name": "Jynx torquilla",
+        "common_name": "Eurasian Wryneck",
+        "quality": "B",
+        "length": "0:42",
+        "recordist": "Dare Šere",
+        "country": "Slovenia",
+        "date": "2022-04-18",
+        "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+        "xc_url": "https://xeno-canto.org/717176"
+      },
+      {
+        "xc_id": "315798",
+        "scientific_name": "Jynx torquilla",
+        "common_name": "Eurasian Wryneck",
+        "quality": "B",
+        "length": "0:42",
+        "recordist": "Dare Šere",
+        "country": "Slovenia",
+        "date": "2016-05-08",
+        "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "xc_url": "https://xeno-canto.org/315798"
+      },
+      {
+        "xc_id": "408954",
+        "scientific_name": "Jynx torquilla",
+        "common_name": "Eurasian Wryneck",
+        "quality": "C",
+        "length": "0:57",
+        "recordist": "Dare Šere",
+        "country": "Slovenia",
+        "date": "2018-04-02",
+        "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "xc_url": "https://xeno-canto.org/408954"
+      }
+    ],
+    "call": [],
+    "alarm call": [],
+    "flight call": []
+  },
+  "Picoides tridactylus": {
+    "song": [],
+    "call": [],
+    "alarm call": [],
+    "flight call": []
+  },
+  "Dendrocoptes medius": {
+    "song": [],
+    "call": [
+      {
+        "xc_id": "771578",
+        "scientific_name": "Dendrocoptes medius",
+        "common_name": "Middle Spotted Woodpecker",
+        "quality": "B",
+        "length": "0:54",
+        "recordist": "Dare Šere",
+        "country": "Slovenia",
+        "date": "2022-12-27",
+        "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+        "xc_url": "https://xeno-canto.org/771578"
+      }
+    ],
+    "alarm call": [
+      {
+        "xc_id": "771578",
+        "scientific_name": "Dendrocoptes medius",
+        "common_name": "Middle Spotted Woodpecker",
+        "quality": "B",
+        "length": "0:54",
+        "recordist": "Dare Šere",
+        "country": "Slovenia",
+        "date": "2022-12-27",
+        "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+        "xc_url": "https://xeno-canto.org/771578"
+      }
+    ],
+    "flight call": []
+  },
+  "Dryobates minor": {
+    "song": [
+      {
+        "xc_id": "324205",
+        "scientific_name": "Dryobates minor",
+        "common_name": "Lesser Spotted Woodpecker",
+        "quality": "C",
+        "length": "0:11",
+        "recordist": "Dare Šere",
+        "country": "Slovenia",
+        "date": "2016-06-26",
+        "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "xc_url": "https://xeno-canto.org/324205"
+      }
+    ],
+    "call": [
+      {
+        "xc_id": "759841",
+        "scientific_name": "Dryobates minor",
+        "common_name": "Lesser Spotted Woodpecker",
+        "quality": "B",
+        "length": "0:08",
+        "recordist": "Dare Šere",
+        "country": "Slovenia",
+        "date": "2022-11-06",
+        "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+        "xc_url": "https://xeno-canto.org/759841"
+      }
+    ],
+    "alarm call": [],
+    "flight call": []
+  },
+  "Dendrocopos major": {
+    "song": [],
+    "call": [
+      {
+        "xc_id": "1005078",
+        "scientific_name": "Dendrocopos major",
+        "common_name": "Great Spotted Woodpecker",
+        "quality": "B",
+        "length": "0:14",
+        "recordist": "Filippo Ceccolini",
+        "country": "Slovenia",
+        "date": "2025-05-31",
+        "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "xc_url": "https://xeno-canto.org/1005078"
+      },
+      {
+        "xc_id": "365976",
+        "scientific_name": "Dendrocopos major",
+        "common_name": "Great Spotted Woodpecker",
+        "quality": "B",
+        "length": "0:57",
+        "recordist": "Dare Šere",
+        "country": "Slovenia",
+        "date": "2017-04-23",
+        "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "xc_url": "https://xeno-canto.org/365976"
+      }
+    ],
+    "alarm call": [],
+    "flight call": []
+  },
+  "Dryocopus martius": {
+    "song": [
+      {
+        "xc_id": "699876",
+        "scientific_name": "Dryocopus martius",
+        "common_name": "Black Woodpecker",
+        "quality": "B",
+        "length": "0:06",
+        "recordist": "Dare Šere",
+        "country": "Slovenia",
+        "date": "2022-01-31",
+        "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+        "xc_url": "https://xeno-canto.org/699876"
+      }
+    ],
+    "call": [
+      {
+        "xc_id": "642579",
+        "scientific_name": "Dryocopus martius",
+        "common_name": "Black Woodpecker",
+        "quality": "B",
+        "length": "0:21",
+        "recordist": "Daniel Errichetti",
+        "country": "Slovenia",
+        "date": "2018-10-07",
+        "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "xc_url": "https://xeno-canto.org/642579"
+      },
+      {
+        "xc_id": "557176",
+        "scientific_name": "Dryocopus martius",
+        "common_name": "Black Woodpecker",
+        "quality": "B",
+        "length": "1:09",
+        "recordist": "Dare Šere",
+        "country": "Slovenia",
+        "date": "2020-05-11",
+        "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+        "xc_url": "https://xeno-canto.org/557176"
+      },
+      {
+        "xc_id": "292457",
+        "scientific_name": "Dryocopus martius",
+        "common_name": "Black Woodpecker",
+        "quality": "C",
+        "length": "1:05",
+        "recordist": "Alex Borrini",
+        "country": "Slovenia",
+        "date": "2015-09-19",
+        "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "xc_url": "https://xeno-canto.org/292457"
+      }
+    ],
+    "alarm call": [],
+    "flight call": [
+      {
+        "xc_id": "292457",
+        "scientific_name": "Dryocopus martius",
+        "common_name": "Black Woodpecker",
+        "quality": "C",
+        "length": "1:05",
+        "recordist": "Alex Borrini",
+        "country": "Slovenia",
+        "date": "2015-09-19",
+        "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "xc_url": "https://xeno-canto.org/292457"
+      }
+    ]
+  },
+  "Picus viridis": {
+    "song": [
+      {
+        "xc_id": "990536",
+        "scientific_name": "Picus viridis",
+        "common_name": "European Green Woodpecker",
+        "quality": "B",
+        "length": "1:43",
+        "recordist": "João Tomás",
+        "country": "Slovenia",
+        "date": "2025-04-13",
+        "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "xc_url": "https://xeno-canto.org/990536"
+      }
+    ],
+    "call": [],
+    "alarm call": [],
+    "flight call": []
+  },
+  "Picus canus": {
+    "song": [
+      {
+        "xc_id": "712186",
+        "scientific_name": "Picus canus",
+        "common_name": "Grey-headed Woodpecker",
+        "quality": "A",
+        "length": "0:20",
+        "recordist": "Dare Šere",
+        "country": "Slovenia",
+        "date": "2022-03-27",
+        "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+        "xc_url": "https://xeno-canto.org/712186"
+      },
+      {
+        "xc_id": "990588",
+        "scientific_name": "Picus canus",
+        "common_name": "Grey-headed Woodpecker",
+        "quality": "C",
+        "length": "0:04",
+        "recordist": "João Tomás",
+        "country": "Slovenia",
+        "date": "2025-04-14",
+        "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "xc_url": "https://xeno-canto.org/990588"
+      }
+    ],
+    "call": [],
+    "alarm call": [],
+    "flight call": []
+  },
+  "Oriolus oriolus": {
+    "song": [
+      {
+        "xc_id": "1105255",
+        "scientific_name": "Oriolus oriolus",
+        "common_name": "Eurasian Golden Oriole",
+        "quality": "B",
+        "length": "0:02",
+        "recordist": "Mislav Kuzic",
+        "country": "Slovenia",
+        "date": "2025-06-01",
+        "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "xc_url": "https://xeno-canto.org/1105255"
+      },
+      {
+        "xc_id": "368045",
+        "scientific_name": "Oriolus oriolus",
+        "common_name": "Eurasian Golden Oriole",
+        "quality": "B",
+        "length": "1:19",
+        "recordist": "Dare Šere",
+        "country": "Slovenia",
+        "date": "2017-05-06",
+        "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "xc_url": "https://xeno-canto.org/368045"
+      }
+    ],
+    "call": [
+      {
+        "xc_id": "368045",
+        "scientific_name": "Oriolus oriolus",
+        "common_name": "Eurasian Golden Oriole",
+        "quality": "B",
+        "length": "1:19",
+        "recordist": "Dare Šere",
+        "country": "Slovenia",
+        "date": "2017-05-06",
+        "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "xc_url": "https://xeno-canto.org/368045"
+      }
+    ],
+    "alarm call": [],
+    "flight call": []
+  },
+  "Garrulus glandarius": {
+    "song": [],
+    "call": [
+      {
+        "xc_id": "587067",
+        "scientific_name": "Garrulus glandarius",
+        "common_name": "Eurasian Jay",
+        "quality": "B",
+        "length": "1:13",
+        "recordist": "Dare Šere",
+        "country": "Slovenia",
+        "date": "2020-09-07",
+        "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+        "xc_url": "https://xeno-canto.org/587067"
+      }
+    ],
+    "alarm call": [
+      {
+        "xc_id": "587067",
+        "scientific_name": "Garrulus glandarius",
+        "common_name": "Eurasian Jay",
+        "quality": "B",
+        "length": "1:13",
+        "recordist": "Dare Šere",
+        "country": "Slovenia",
+        "date": "2020-09-07",
+        "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+        "xc_url": "https://xeno-canto.org/587067"
+      }
+    ],
+    "flight call": []
+  },
+  "Nucifraga caryocatactes": {
+    "song": [],
+    "call": [
+      {
+        "xc_id": "715955",
+        "scientific_name": "Nucifraga caryocatactes",
+        "common_name": "Spotted Nutcracker",
+        "quality": "A",
+        "length": "0:13",
+        "recordist": "Dare Sere",
+        "country": "Slovenia",
+        "date": "2022-04-16",
+        "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+        "xc_url": "https://xeno-canto.org/715955"
+      },
+      {
+        "xc_id": "574950",
+        "scientific_name": "Nucifraga caryocatactes",
+        "common_name": "Spotted Nutcracker",
+        "quality": "A",
+        "length": "0:36",
+        "recordist": "Dare Šere",
+        "country": "Slovenia",
+        "date": "2020-07-08",
+        "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+        "xc_url": "https://xeno-canto.org/574950"
+      },
+      {
+        "xc_id": "348375",
+        "scientific_name": "Nucifraga caryocatactes",
+        "common_name": "Spotted Nutcracker",
+        "quality": "B",
+        "length": "0:39",
+        "recordist": "Dare Šere",
+        "country": "Slovenia",
+        "date": "2016-12-26",
+        "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "xc_url": "https://xeno-canto.org/348375"
+      }
+    ],
+    "alarm call": [
+      {
+        "xc_id": "715955",
+        "scientific_name": "Nucifraga caryocatactes",
+        "common_name": "Spotted Nutcracker",
+        "quality": "A",
+        "length": "0:13",
+        "recordist": "Dare Sere",
+        "country": "Slovenia",
+        "date": "2022-04-16",
+        "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+        "xc_url": "https://xeno-canto.org/715955"
+      },
+      {
+        "xc_id": "574950",
+        "scientific_name": "Nucifraga caryocatactes",
+        "common_name": "Spotted Nutcracker",
+        "quality": "A",
+        "length": "0:36",
+        "recordist": "Dare Šere",
+        "country": "Slovenia",
+        "date": "2020-07-08",
+        "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+        "xc_url": "https://xeno-canto.org/574950"
+      }
+    ],
+    "flight call": []
+  },
+  "Pyrrhocorax graculus": {
+    "song": [],
+    "call": [
+      {
+        "xc_id": "301064",
+        "scientific_name": "Pyrrhocorax graculus",
+        "common_name": "Alpine Chough",
+        "quality": "A",
+        "length": "0:25",
+        "recordist": "Dare Šere",
+        "country": "Slovenia",
+        "date": "2016-01-23",
+        "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "xc_url": "https://xeno-canto.org/301064"
+      },
+      {
+        "xc_id": "958176",
+        "scientific_name": "Pyrrhocorax graculus",
+        "common_name": "Alpine Chough",
+        "quality": "C",
+        "length": "0:54",
+        "recordist": "András Schmidt",
+        "country": "Slovenia",
+        "date": "2024-08-23",
+        "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "xc_url": "https://xeno-canto.org/958176"
+      }
+    ],
+    "alarm call": [],
+    "flight call": [
+      {
+        "xc_id": "301064",
+        "scientific_name": "Pyrrhocorax graculus",
+        "common_name": "Alpine Chough",
+        "quality": "A",
+        "length": "0:25",
+        "recordist": "Dare Šere",
+        "country": "Slovenia",
+        "date": "2016-01-23",
+        "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "xc_url": "https://xeno-canto.org/301064"
+      }
+    ]
+  },
+  "Corvus cornix": {
+    "song": [],
+    "call": [
+      {
+        "xc_id": "990546",
+        "scientific_name": "Corvus cornix",
+        "common_name": "Hooded Crow",
+        "quality": "B",
+        "length": "0:18",
+        "recordist": "João Tomás",
+        "country": "Slovenia",
+        "date": "2025-04-13",
+        "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "xc_url": "https://xeno-canto.org/990546"
+      },
+      {
+        "xc_id": "990544",
+        "scientific_name": "Corvus cornix",
+        "common_name": "Hooded Crow",
+        "quality": "B",
+        "length": "0:08",
+        "recordist": "João Tomás",
+        "country": "Slovenia",
+        "date": "2025-04-13",
+        "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "xc_url": "https://xeno-canto.org/990544"
+      },
+      {
+        "xc_id": "784496",
+        "scientific_name": "Corvus cornix",
+        "common_name": "Hooded Crow",
+        "quality": "B",
+        "length": "0:33",
+        "recordist": "Dare Šere",
+        "country": "Slovenia",
+        "date": "2023-03-07",
+        "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+        "xc_url": "https://xeno-canto.org/784496"
+      },
+      {
+        "xc_id": "439296",
+        "scientific_name": "Corvus cornix",
+        "common_name": "Hooded Crow",
+        "quality": "B",
+        "length": "0:19",
+        "recordist": "Ptice Forum",
+        "country": "Slovenia",
+        "date": "2018-10-18",
+        "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "xc_url": "https://xeno-canto.org/439296"
+      }
+    ],
+    "alarm call": [],
+    "flight call": [
+      {
+        "xc_id": "990546",
+        "scientific_name": "Corvus cornix",
+        "common_name": "Hooded Crow",
+        "quality": "B",
+        "length": "0:18",
+        "recordist": "João Tomás",
+        "country": "Slovenia",
+        "date": "2025-04-13",
+        "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "xc_url": "https://xeno-canto.org/990546"
+      }
+    ]
+  },
+  "Corvus corax": {
+    "song": [],
+    "call": [
+      {
+        "xc_id": "612962",
+        "scientific_name": "Corvus corax",
+        "common_name": "Northern Raven",
+        "quality": "C",
+        "length": "0:11",
+        "recordist": "Dare Šere",
+        "country": "Slovenia",
+        "date": "2021-01-03",
+        "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+        "xc_url": "https://xeno-canto.org/612962"
+      }
+    ],
+    "alarm call": [],
+    "flight call": [
+      {
+        "xc_id": "612962",
+        "scientific_name": "Corvus corax",
+        "common_name": "Northern Raven",
+        "quality": "C",
+        "length": "0:11",
+        "recordist": "Dare Šere",
+        "country": "Slovenia",
+        "date": "2021-01-03",
+        "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+        "xc_url": "https://xeno-canto.org/612962"
+      }
+    ]
+  },
+  "Periparus ater": {
+    "song": [
+      {
+        "xc_id": "549402",
+        "scientific_name": "Periparus ater",
+        "common_name": "Coal Tit",
+        "quality": "B",
+        "length": "0:48",
+        "recordist": "Dare Šere",
+        "country": "Slovenia",
+        "date": "2020-04-18",
+        "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+        "xc_url": "https://xeno-canto.org/549402"
+      },
+      {
+        "xc_id": "549400",
+        "scientific_name": "Periparus ater",
+        "common_name": "Coal Tit",
+        "quality": "B",
+        "length": "0:35",
+        "recordist": "Dare Šere",
+        "country": "Slovenia",
+        "date": "2020-04-18",
+        "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+        "xc_url": "https://xeno-canto.org/549400"
+      },
+      {
+        "xc_id": "302910",
+        "scientific_name": "Periparus ater",
+        "common_name": "Coal Tit",
+        "quality": "B",
+        "length": "0:31",
+        "recordist": "Dare Šere",
+        "country": "Slovenia",
+        "date": "2016-02-07",
+        "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "xc_url": "https://xeno-canto.org/302910"
+      },
+      {
+        "xc_id": "549403",
+        "scientific_name": "Periparus ater",
+        "common_name": "Coal Tit",
+        "quality": "C",
+        "length": "0:17",
+        "recordist": "Dare Šere",
+        "country": "Slovenia",
+        "date": "2020-04-18",
+        "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+        "xc_url": "https://xeno-canto.org/549403"
+      }
+    ],
+    "call": [],
+    "alarm call": [],
+    "flight call": []
+  },
+  "Lophophanes cristatus": {
+    "song": [],
+    "call": [
+      {
+        "xc_id": "951722",
+        "scientific_name": "Lophophanes cristatus",
+        "common_name": "European Crested Tit",
+        "quality": "B",
+        "length": "0:23",
+        "recordist": "Dare Šere",
+        "country": "Slovenia",
+        "date": "2024-11-21",
+        "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+        "xc_url": "https://xeno-canto.org/951722"
+      },
+      {
+        "xc_id": "698424",
+        "scientific_name": "Lophophanes cristatus",
+        "common_name": "European Crested Tit",
+        "quality": "B",
+        "length": "0:30",
+        "recordist": "Dare Šere",
+        "country": "Slovenia",
+        "date": "2022-01-23",
+        "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+        "xc_url": "https://xeno-canto.org/698424"
+      }
+    ],
+    "alarm call": [],
+    "flight call": []
+  },
+  "Poecile palustris": {
+    "song": [
+      {
+        "xc_id": "994557",
+        "scientific_name": "Poecile palustris",
+        "common_name": "Marsh Tit",
+        "quality": "B",
+        "length": "0:41",
+        "recordist": "João Tomás",
+        "country": "Slovenia",
+        "date": "2025-04-13",
+        "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "xc_url": "https://xeno-canto.org/994557"
+      },
+      {
+        "xc_id": "705944",
+        "scientific_name": "Poecile palustris",
+        "common_name": "Marsh Tit",
+        "quality": "C",
+        "length": "0:52",
+        "recordist": "Dare Šere",
+        "country": "Slovenia",
+        "date": "2022-03-04",
+        "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+        "xc_url": "https://xeno-canto.org/705944"
+      }
+    ],
+    "call": [],
+    "alarm call": [],
+    "flight call": []
+  },
+  "Poecile montanus": {
+    "song": [
+      {
+        "xc_id": "1108087",
+        "scientific_name": "Poecile montanus",
+        "common_name": "Willow Tit",
+        "quality": "A",
+        "length": "1:18",
+        "recordist": "Dare Šere",
+        "country": "Slovenia",
+        "date": "2026-04-05",
+        "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+        "xc_url": "https://xeno-canto.org/1108087"
+      },
+      {
+        "xc_id": "712172",
+        "scientific_name": "Poecile montanus",
+        "common_name": "Willow Tit",
+        "quality": "B",
+        "length": "1:09",
+        "recordist": "Dare Šere",
+        "country": "Slovenia",
+        "date": "2022-03-29",
+        "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+        "xc_url": "https://xeno-canto.org/712172"
+      },
+      {
+        "xc_id": "712113",
+        "scientific_name": "Poecile montanus",
+        "common_name": "Willow Tit",
+        "quality": "B",
+        "length": "0:51",
+        "recordist": "Dare Šere",
+        "country": "Slovenia",
+        "date": "2022-03-29",
+        "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+        "xc_url": "https://xeno-canto.org/712113"
+      },
+      {
+        "xc_id": "358829",
+        "scientific_name": "Poecile montanus",
+        "common_name": "Willow Tit",
+        "quality": "B",
+        "length": "0:38",
+        "recordist": "Dare Šere",
+        "country": "Slovenia",
+        "date": "2017-03-12",
+        "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "xc_url": "https://xeno-canto.org/358829"
+      }
+    ],
+    "call": [
+      {
+        "xc_id": "990603",
+        "scientific_name": "Poecile montanus",
+        "common_name": "Willow Tit",
+        "quality": "B",
+        "length": "0:30",
+        "recordist": "João Tomás",
+        "country": "Slovenia",
+        "date": "2025-04-16",
+        "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "xc_url": "https://xeno-canto.org/990603"
+      },
+      {
+        "xc_id": "712113",
+        "scientific_name": "Poecile montanus",
+        "common_name": "Willow Tit",
+        "quality": "B",
+        "length": "0:51",
+        "recordist": "Dare Šere",
+        "country": "Slovenia",
+        "date": "2022-03-29",
+        "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+        "xc_url": "https://xeno-canto.org/712113"
+      }
+    ],
+    "alarm call": [
+      {
+        "xc_id": "990603",
+        "scientific_name": "Poecile montanus",
+        "common_name": "Willow Tit",
+        "quality": "B",
+        "length": "0:30",
+        "recordist": "João Tomás",
+        "country": "Slovenia",
+        "date": "2025-04-16",
+        "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "xc_url": "https://xeno-canto.org/990603"
+      }
+    ],
+    "flight call": []
+  },
+  "Parus major": {
+    "song": [
+      {
+        "xc_id": "994570",
+        "scientific_name": "Parus major",
+        "common_name": "Great Tit",
+        "quality": "A",
+        "length": "0:24",
+        "recordist": "João Tomás",
+        "country": "Slovenia",
+        "date": "2025-04-11",
+        "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "xc_url": "https://xeno-canto.org/994570"
+      },
+      {
+        "xc_id": "1075282",
+        "scientific_name": "Parus major",
+        "common_name": "Great Tit",
+        "quality": "B",
+        "length": "0:56",
+        "recordist": "Dare Šere",
+        "country": "Slovenia",
+        "date": "2026-01-27",
+        "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+        "xc_url": "https://xeno-canto.org/1075282"
+      },
+      {
+        "xc_id": "990551",
+        "scientific_name": "Parus major",
+        "common_name": "Great Tit",
+        "quality": "B",
+        "length": "3:12",
+        "recordist": "João Tomás",
+        "country": "Slovenia",
+        "date": "2025-04-13",
+        "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "xc_url": "https://xeno-canto.org/990551"
+      },
+      {
+        "xc_id": "803996",
+        "scientific_name": "Parus major",
+        "common_name": "Great Tit",
+        "quality": "B",
+        "length": "0:16",
+        "recordist": "Dare Šere",
+        "country": "Slovenia",
+        "date": "2023-05-25",
+        "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+        "xc_url": "https://xeno-canto.org/803996"
+      },
+      {
+        "xc_id": "717165",
+        "scientific_name": "Parus major",
+        "common_name": "Great Tit",
+        "quality": "B",
+        "length": "1:01",
+        "recordist": "Dare Šere",
+        "country": "Slovenia",
+        "date": "2022-04-21",
+        "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+        "xc_url": "https://xeno-canto.org/717165"
+      }
+    ],
+    "call": [],
+    "alarm call": [],
+    "flight call": []
+  },
+  "Lullula arborea": {
+    "song": [
+      {
+        "xc_id": "356326",
+        "scientific_name": "Lullula arborea",
+        "common_name": "Woodlark",
+        "quality": "B",
+        "length": "0:35",
+        "recordist": "Dare Šere",
+        "country": "Slovenia",
+        "date": "2017-02-17",
+        "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "xc_url": "https://xeno-canto.org/356326"
+      },
+      {
+        "xc_id": "323216",
+        "scientific_name": "Lullula arborea",
+        "common_name": "Woodlark",
+        "quality": "C",
+        "length": "0:15",
+        "recordist": "Dare Šere",
+        "country": "Slovenia",
+        "date": "2016-06-14",
+        "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "xc_url": "https://xeno-canto.org/323216"
+      }
+    ],
+    "call": [],
+    "alarm call": [],
+    "flight call": []
+  },
+  "Alauda arvensis": {
+    "song": [
+      {
+        "xc_id": "335656",
+        "scientific_name": "Alauda arvensis",
+        "common_name": "Eurasian Skylark",
+        "quality": "B",
+        "length": "0:44",
+        "recordist": "Dare Šere",
+        "country": "Slovenia",
+        "date": "2016-05-06",
+        "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "xc_url": "https://xeno-canto.org/335656"
+      }
+    ],
+    "call": [],
+    "alarm call": [],
+    "flight call": []
+  },
+  "Galerida cristata": {
+    "song": [
+      {
+        "xc_id": "324115",
+        "scientific_name": "Galerida cristata",
+        "common_name": "Crested Lark",
+        "quality": "C",
+        "length": "1:16",
+        "recordist": "Dare Šere",
+        "country": "Slovenia",
+        "date": "2016-06-24",
+        "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "xc_url": "https://xeno-canto.org/324115"
+      }
+    ],
+    "call": [
+      {
+        "xc_id": "324116",
+        "scientific_name": "Galerida cristata",
+        "common_name": "Crested Lark",
+        "quality": "B",
+        "length": "0:17",
+        "recordist": "Dare Šere",
+        "country": "Slovenia",
+        "date": "2016-06-24",
+        "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "xc_url": "https://xeno-canto.org/324116"
+      }
+    ],
+    "alarm call": [],
+    "flight call": []
+  },
+  "Riparia riparia": {
+    "song": [],
+    "call": [
+      {
+        "xc_id": "327659",
+        "scientific_name": "Riparia riparia",
+        "common_name": "Sand Martin",
+        "quality": "D",
+        "length": "1:04",
+        "recordist": "Dare Šere",
+        "country": "Slovenia",
+        "date": "2016-07-19",
+        "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "xc_url": "https://xeno-canto.org/327659"
+      }
+    ],
+    "alarm call": [],
+    "flight call": [
+      {
+        "xc_id": "327659",
+        "scientific_name": "Riparia riparia",
+        "common_name": "Sand Martin",
+        "quality": "D",
+        "length": "1:04",
+        "recordist": "Dare Šere",
+        "country": "Slovenia",
+        "date": "2016-07-19",
+        "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "xc_url": "https://xeno-canto.org/327659"
+      }
+    ]
+  },
+  "Cettia cetti": {
+    "song": [
+      {
+        "xc_id": "307997",
+        "scientific_name": "Cettia cetti",
+        "common_name": "Cetti's Warbler",
+        "quality": "B",
+        "length": "0:05",
+        "recordist": "Dare Šere",
+        "country": "Slovenia",
+        "date": "2016-03-20",
+        "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "xc_url": "https://xeno-canto.org/307997"
+      },
+      {
+        "xc_id": "307993",
+        "scientific_name": "Cettia cetti",
+        "common_name": "Cetti's Warbler",
+        "quality": "B",
+        "length": "0:06",
+        "recordist": "Dare Šere",
+        "country": "Slovenia",
+        "date": "2016-03-20",
+        "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "xc_url": "https://xeno-canto.org/307993"
+      },
+      {
+        "xc_id": "348377",
+        "scientific_name": "Cettia cetti",
+        "common_name": "Cetti's Warbler",
+        "quality": "C",
+        "length": "0:06",
+        "recordist": "Dare Šere",
+        "country": "Slovenia",
+        "date": "2016-12-22",
+        "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "xc_url": "https://xeno-canto.org/348377"
+      },
+      {
+        "xc_id": "303734",
+        "scientific_name": "Cettia cetti",
+        "common_name": "Cetti's Warbler",
+        "quality": "C",
+        "length": "0:46",
+        "recordist": "Dare Šere",
+        "country": "Slovenia",
+        "date": "2015-05-09",
+        "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "xc_url": "https://xeno-canto.org/303734"
+      }
+    ],
+    "call": [
+      {
+        "xc_id": "605119",
+        "scientific_name": "Cettia cetti",
+        "common_name": "Cetti's Warbler",
+        "quality": "B",
+        "length": "0:11",
+        "recordist": "Dare Šere",
+        "country": "Slovenia",
+        "date": "2020-11-23",
+        "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+        "xc_url": "https://xeno-canto.org/605119"
+      }
+    ],
+    "alarm call": [
+      {
+        "xc_id": "605119",
+        "scientific_name": "Cettia cetti",
+        "common_name": "Cetti's Warbler",
+        "quality": "B",
+        "length": "0:11",
+        "recordist": "Dare Šere",
+        "country": "Slovenia",
+        "date": "2020-11-23",
+        "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+        "xc_url": "https://xeno-canto.org/605119"
+      }
+    ],
+    "flight call": []
+  },
+  "Phylloscopus bonelli": {
+    "song": [
+      {
+        "xc_id": "654891",
+        "scientific_name": "Phylloscopus bonelli",
+        "common_name": "Western Bonelli's Warbler",
+        "quality": "B",
+        "length": "0:52",
+        "recordist": "Dare Šere",
+        "country": "Slovenia",
+        "date": "2021-06-05",
+        "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+        "xc_url": "https://xeno-canto.org/654891"
+      },
+      {
+        "xc_id": "572984",
+        "scientific_name": "Phylloscopus bonelli",
+        "common_name": "Western Bonelli's Warbler",
+        "quality": "B",
+        "length": "0:48",
+        "recordist": "Dare Šere",
+        "country": "Slovenia",
+        "date": "2020-06-13",
+        "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+        "xc_url": "https://xeno-canto.org/572984"
+      },
+      {
+        "xc_id": "323198",
+        "scientific_name": "Phylloscopus bonelli",
+        "common_name": "Western Bonelli's Warbler",
+        "quality": "B",
+        "length": "0:12",
+        "recordist": "Dare Šere",
+        "country": "Slovenia",
+        "date": "2016-06-10",
+        "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "xc_url": "https://xeno-canto.org/323198"
+      },
+      {
+        "xc_id": "731886",
+        "scientific_name": "Phylloscopus bonelli",
+        "common_name": "Western Bonelli's Warbler",
+        "quality": "C",
+        "length": "0:14",
+        "recordist": "Dare Šere",
+        "country": "Slovenia",
+        "date": "2022-06-11",
+        "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+        "xc_url": "https://xeno-canto.org/731886"
+      },
+      {
+        "xc_id": "731878",
+        "scientific_name": "Phylloscopus bonelli",
+        "common_name": "Western Bonelli's Warbler",
+        "quality": "C",
+        "length": "1:53",
+        "recordist": "Dare Šere",
+        "country": "Slovenia",
+        "date": "2022-06-11",
+        "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+        "xc_url": "https://xeno-canto.org/731878"
+      }
+    ],
+    "call": [
+      {
+        "xc_id": "654891",
+        "scientific_name": "Phylloscopus bonelli",
+        "common_name": "Western Bonelli's Warbler",
+        "quality": "B",
+        "length": "0:52",
+        "recordist": "Dare Šere",
+        "country": "Slovenia",
+        "date": "2021-06-05",
+        "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+        "xc_url": "https://xeno-canto.org/654891"
+      },
+      {
+        "xc_id": "323198",
+        "scientific_name": "Phylloscopus bonelli",
+        "common_name": "Western Bonelli's Warbler",
+        "quality": "B",
+        "length": "0:12",
+        "recordist": "Dare Šere",
+        "country": "Slovenia",
+        "date": "2016-06-10",
+        "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "xc_url": "https://xeno-canto.org/323198"
+      },
+      {
+        "xc_id": "731878",
+        "scientific_name": "Phylloscopus bonelli",
+        "common_name": "Western Bonelli's Warbler",
+        "quality": "C",
+        "length": "1:53",
+        "recordist": "Dare Šere",
+        "country": "Slovenia",
+        "date": "2022-06-11",
+        "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+        "xc_url": "https://xeno-canto.org/731878"
+      }
+    ],
+    "alarm call": [],
+    "flight call": []
+  },
+  "Phylloscopus inornatus": {
+    "song": [],
+    "call": [
+      {
+        "xc_id": "336747",
+        "scientific_name": "Phylloscopus inornatus",
+        "common_name": "Yellow-browed Warbler",
+        "quality": "B",
+        "length": "0:15",
+        "recordist": "Dare Šere",
+        "country": "Slovenia",
+        "date": "2016-09-29",
+        "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "xc_url": "https://xeno-canto.org/336747"
+      }
+    ],
+    "alarm call": [],
+    "flight call": []
+  },
+  "Phylloscopus trochilus": {
+    "song": [
+      {
+        "xc_id": "565572",
+        "scientific_name": "Phylloscopus trochilus",
+        "common_name": "Willow Warbler",
+        "quality": "C",
+        "length": "0:47",
+        "recordist": "Dare Šere",
+        "country": "Slovenia",
+        "date": "2020-06-02",
+        "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+        "xc_url": "https://xeno-canto.org/565572"
+      }
+    ],
+    "call": [],
+    "alarm call": [],
+    "flight call": []
+  },
+  "Phylloscopus collybita": {
+    "song": [
+      {
+        "xc_id": "283226",
+        "scientific_name": "Phylloscopus collybita",
+        "common_name": "Common Chiffchaff",
+        "quality": "A",
+        "length": "1:05",
+        "recordist": "Dare Šere",
+        "country": "Slovenia",
+        "date": "2015-05-16",
+        "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "xc_url": "https://xeno-canto.org/283226"
+      },
+      {
+        "xc_id": "295648",
+        "scientific_name": "Phylloscopus collybita",
+        "common_name": "Common Chiffchaff",
+        "quality": "B",
+        "length": "0:44",
+        "recordist": "Dare Šere",
+        "country": "Slovenia",
+        "date": "2015-06-21",
+        "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "xc_url": "https://xeno-canto.org/295648"
+      },
+      {
+        "xc_id": "637961",
+        "scientific_name": "Phylloscopus collybita",
+        "common_name": "Common Chiffchaff",
+        "quality": "C",
+        "length": "1:11",
+        "recordist": "Dare Šere",
+        "country": "Slovenia",
+        "date": "2021-04-10",
+        "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+        "xc_url": "https://xeno-canto.org/637961"
+      },
+      {
+        "xc_id": "543662",
+        "scientific_name": "Phylloscopus collybita",
+        "common_name": "Common Chiffchaff",
+        "quality": "C",
+        "length": "0:28",
+        "recordist": "Dare Šere",
+        "country": "Slovenia",
+        "date": "2020-04-09",
+        "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+        "xc_url": "https://xeno-canto.org/543662"
+      }
+    ],
+    "call": [
+      {
+        "xc_id": "780023",
+        "scientific_name": "Phylloscopus collybita",
+        "common_name": "Common Chiffchaff",
+        "quality": "B",
+        "length": "0:12",
+        "recordist": "David Nayer",
+        "country": "Slovenia",
+        "date": "2023-02-12",
+        "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "xc_url": "https://xeno-canto.org/780023"
+      }
+    ],
+    "alarm call": [],
+    "flight call": []
+  },
+  "Acrocephalus arundinaceus": {
+    "song": [
+      {
+        "xc_id": "655721",
+        "scientific_name": "Acrocephalus arundinaceus",
+        "common_name": "Great Reed Warbler",
+        "quality": "B",
+        "length": "1:32",
+        "recordist": "Dare Šere",
+        "country": "Slovenia",
+        "date": "2021-06-10",
+        "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+        "xc_url": "https://xeno-canto.org/655721"
+      },
+      {
+        "xc_id": "474488",
+        "scientific_name": "Acrocephalus arundinaceus",
+        "common_name": "Great Reed Warbler",
+        "quality": "B",
+        "length": "0:22",
+        "recordist": "Dare Šere",
+        "country": "Slovenia",
+        "date": "2019-05-13",
+        "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+        "xc_url": "https://xeno-canto.org/474488"
+      },
+      {
+        "xc_id": "796538",
+        "scientific_name": "Acrocephalus arundinaceus",
+        "common_name": "Great Reed Warbler",
+        "quality": "C",
+        "length": "1:03",
+        "recordist": "Branislav Oblučar",
+        "country": "Slovenia",
+        "date": "2023-04-27",
+        "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "xc_url": "https://xeno-canto.org/796538"
+      }
+    ],
+    "call": [],
+    "alarm call": [],
+    "flight call": []
+  },
+  "Acrocephalus melanopogon": {
+    "song": [
+      {
+        "xc_id": "307991",
+        "scientific_name": "Acrocephalus melanopogon",
+        "common_name": "Moustached Warbler",
+        "quality": "C",
+        "length": "0:31",
+        "recordist": "Dare Šere",
+        "country": "Slovenia",
+        "date": "2016-03-20",
+        "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "xc_url": "https://xeno-canto.org/307991"
+      }
+    ],
+    "call": [],
+    "alarm call": [],
+    "flight call": []
+  },
+  "Acrocephalus schoenobaenus": {
+    "song": [
+      {
+        "xc_id": "989883",
+        "scientific_name": "Acrocephalus schoenobaenus",
+        "common_name": "Sedge Warbler",
+        "quality": "A",
+        "length": "1:29",
+        "recordist": "Dare Šere",
+        "country": "Slovenia",
+        "date": "2025-04-16",
+        "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+        "xc_url": "https://xeno-canto.org/989883"
+      },
+      {
+        "xc_id": "554626",
+        "scientific_name": "Acrocephalus schoenobaenus",
+        "common_name": "Sedge Warbler",
+        "quality": "A",
+        "length": "8:07",
+        "recordist": "Dare Šere",
+        "country": "Slovenia",
+        "date": "2020-05-05",
+        "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+        "xc_url": "https://xeno-canto.org/554626"
+      },
+      {
+        "xc_id": "1007529",
+        "scientific_name": "Acrocephalus schoenobaenus",
+        "common_name": "Sedge Warbler",
+        "quality": "B",
+        "length": "1:08",
+        "recordist": "Dare Šere",
+        "country": "Slovenia",
+        "date": "2025-05-06",
+        "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+        "xc_url": "https://xeno-canto.org/1007529"
+      },
+      {
+        "xc_id": "802697",
+        "scientific_name": "Acrocephalus schoenobaenus",
+        "common_name": "Sedge Warbler",
+        "quality": "B",
+        "length": "0:59",
+        "recordist": "Cedric Mroczko",
+        "country": "Slovenia",
+        "date": "2023-04-25",
+        "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "xc_url": "https://xeno-canto.org/802697"
+      },
+      {
+        "xc_id": "721432",
+        "scientific_name": "Acrocephalus schoenobaenus",
+        "common_name": "Sedge Warbler",
+        "quality": "B",
+        "length": "1:14",
+        "recordist": "Dare Šere",
+        "country": "Slovenia",
+        "date": "2022-05-02",
+        "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+        "xc_url": "https://xeno-canto.org/721432"
+      }
+    ],
+    "call": [],
+    "alarm call": [],
+    "flight call": []
+  },
+  "Acrocephalus scirpaceus": {
+    "song": [
+      {
+        "xc_id": "660239",
+        "scientific_name": "Acrocephalus scirpaceus",
+        "common_name": "Eurasian Reed Warbler",
+        "quality": "B",
+        "length": "0:54",
+        "recordist": "Dare Šere",
+        "country": "Slovenia",
+        "date": "2021-06-30",
+        "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+        "xc_url": "https://xeno-canto.org/660239"
+      },
+      {
+        "xc_id": "470488",
+        "scientific_name": "Acrocephalus scirpaceus",
+        "common_name": "Eurasian Reed Warbler",
+        "quality": "B",
+        "length": "0:16",
+        "recordist": "Dare Šere",
+        "country": "Slovenia",
+        "date": "2019-05-01",
+        "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+        "xc_url": "https://xeno-canto.org/470488"
+      }
+    ],
+    "call": [],
+    "alarm call": [],
+    "flight call": []
+  },
+  "Acrocephalus palustris": {
+    "song": [
+      {
+        "xc_id": "1007827",
+        "scientific_name": "Acrocephalus palustris",
+        "common_name": "Marsh Warbler",
+        "quality": "A",
+        "length": "16:09",
+        "recordist": "Dare Šere",
+        "country": "Slovenia",
+        "date": "2025-06-19",
+        "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+        "xc_url": "https://xeno-canto.org/1007827"
+      },
+      {
+        "xc_id": "484084",
+        "scientific_name": "Acrocephalus palustris",
+        "common_name": "Marsh Warbler",
+        "quality": "A",
+        "length": "2:05",
+        "recordist": "Dare Šere",
+        "country": "Slovenia",
+        "date": "2019-06-27",
+        "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+        "xc_url": "https://xeno-canto.org/484084"
+      },
+      {
+        "xc_id": "481966",
+        "scientific_name": "Acrocephalus palustris",
+        "common_name": "Marsh Warbler",
+        "quality": "A",
+        "length": "2:34",
+        "recordist": "Dare Šere",
+        "country": "Slovenia",
+        "date": "2019-06-18",
+        "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+        "xc_url": "https://xeno-canto.org/481966"
+      },
+      {
+        "xc_id": "809760",
+        "scientific_name": "Acrocephalus palustris",
+        "common_name": "Marsh Warbler",
+        "quality": "B",
+        "length": "15:33",
+        "recordist": "Dare Šere",
+        "country": "Slovenia",
+        "date": "2023-06-18",
+        "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+        "xc_url": "https://xeno-canto.org/809760"
+      },
+      {
+        "xc_id": "735784",
+        "scientific_name": "Acrocephalus palustris",
+        "common_name": "Marsh Warbler",
+        "quality": "B",
+        "length": "22:52",
+        "recordist": "Dare Šere",
+        "country": "Slovenia",
+        "date": "2022-06-27",
+        "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+        "xc_url": "https://xeno-canto.org/735784"
+      }
+    ],
+    "call": [],
+    "alarm call": [],
+    "flight call": []
+  },
+  "Hippolais polyglotta": {
+    "song": [
+      {
+        "xc_id": "652337",
+        "scientific_name": "Hippolais polyglotta",
+        "common_name": "Melodious Warbler",
+        "quality": "A",
+        "length": "1:21",
+        "recordist": "Dare Šere",
+        "country": "Slovenia",
+        "date": "2021-05-27",
+        "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+        "xc_url": "https://xeno-canto.org/652337"
+      },
+      {
+        "xc_id": "303729",
+        "scientific_name": "Hippolais polyglotta",
+        "common_name": "Melodious Warbler",
+        "quality": "B",
+        "length": "0:33",
+        "recordist": "Dare Šere",
+        "country": "Slovenia",
+        "date": "2015-05-10",
+        "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "xc_url": "https://xeno-canto.org/303729"
+      }
+    ],
+    "call": [],
+    "alarm call": [],
+    "flight call": []
+  },
+  "Hippolais icterina": {
+    "song": [
+      {
+        "xc_id": "798889",
+        "scientific_name": "Hippolais icterina",
+        "common_name": "Icterine Warbler",
+        "quality": "B",
+        "length": "0:33",
+        "recordist": "Dare Šere",
+        "country": "Slovenia",
+        "date": "2023-05-07",
+        "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+        "xc_url": "https://xeno-canto.org/798889"
+      }
+    ],
+    "call": [],
+    "alarm call": [],
+    "flight call": []
+  },
+  "Locustella fluviatilis": {
+    "song": [
+      {
+        "xc_id": "728179",
+        "scientific_name": "Locustella fluviatilis",
+        "common_name": "River Warbler",
+        "quality": "B",
+        "length": "0:08",
+        "recordist": "Marco Crivellari",
+        "country": "Slovenia",
+        "date": "2022-05-29",
+        "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "xc_url": "https://xeno-canto.org/728179"
+      },
+      {
+        "xc_id": "339872",
+        "scientific_name": "Locustella fluviatilis",
+        "common_name": "River Warbler",
+        "quality": "C",
+        "length": "0:25",
+        "recordist": "Dare Šere",
+        "country": "Slovenia",
+        "date": "2016-05-24",
+        "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "xc_url": "https://xeno-canto.org/339872"
+      }
+    ],
+    "call": [],
+    "alarm call": [],
+    "flight call": []
+  },
+  "Locustella naevia": {
+    "song": [
+      {
+        "xc_id": "264352",
+        "scientific_name": "Locustella naevia",
+        "common_name": "Common Grasshopper Warbler",
+        "quality": "B",
+        "length": "0:27",
+        "recordist": "Dare Šere",
+        "country": "Slovenia",
+        "date": "2015-04-26",
+        "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "xc_url": "https://xeno-canto.org/264352"
+      },
+      {
+        "xc_id": "561013",
+        "scientific_name": "Locustella naevia",
+        "common_name": "Common Grasshopper Warbler",
+        "quality": "C",
+        "length": "0:32",
+        "recordist": "Pia Höfferle",
+        "country": "Slovenia",
+        "date": "2020-05-22",
+        "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "xc_url": "https://xeno-canto.org/561013"
+      }
+    ],
+    "call": [],
+    "alarm call": [],
+    "flight call": []
+  },
+  "Cisticola juncidis": {
+    "song": [
+      {
+        "xc_id": "764143",
+        "scientific_name": "Cisticola juncidis",
+        "common_name": "Zitting Cisticola",
+        "quality": "B",
+        "length": "0:19",
+        "recordist": "Török Tamás",
+        "country": "Slovenia",
+        "date": "2022-08-20",
+        "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "xc_url": "https://xeno-canto.org/764143"
+      },
+      {
+        "xc_id": "303737",
+        "scientific_name": "Cisticola juncidis",
+        "common_name": "Zitting Cisticola",
+        "quality": "C",
+        "length": "0:05",
+        "recordist": "Dare Šere",
+        "country": "Slovenia",
+        "date": "2015-05-10",
+        "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "xc_url": "https://xeno-canto.org/303737"
+      }
+    ],
+    "call": [],
+    "alarm call": [],
+    "flight call": []
+  },
+  "Sylvia atricapilla": {
+    "song": [
+      {
+        "xc_id": "1105691",
+        "scientific_name": "Sylvia atricapilla",
+        "common_name": "Eurasian Blackcap",
+        "quality": "B",
+        "length": "0:03",
+        "recordist": "Mislav Kuzic",
+        "country": "Slovenia",
+        "date": "2026-05-02",
+        "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "xc_url": "https://xeno-canto.org/1105691"
+      },
+      {
+        "xc_id": "990507",
+        "scientific_name": "Sylvia atricapilla",
+        "common_name": "Eurasian Blackcap",
+        "quality": "B",
+        "length": "1:22",
+        "recordist": "João Tomás",
+        "country": "Slovenia",
+        "date": "2025-04-13",
+        "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "xc_url": "https://xeno-canto.org/990507"
+      },
+      {
+        "xc_id": "989881",
+        "scientific_name": "Sylvia atricapilla",
+        "common_name": "Eurasian Blackcap",
+        "quality": "B",
+        "length": "1:19",
+        "recordist": "Dare Šere",
+        "country": "Slovenia",
+        "date": "2025-04-16",
+        "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+        "xc_url": "https://xeno-canto.org/989881"
+      },
+      {
+        "xc_id": "921760",
+        "scientific_name": "Sylvia atricapilla",
+        "common_name": "Eurasian Blackcap",
+        "quality": "B",
+        "length": "2:58",
+        "recordist": "Dare Šere",
+        "country": "Slovenia",
+        "date": "2024-07-06",
+        "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+        "xc_url": "https://xeno-canto.org/921760"
+      },
+      {
+        "xc_id": "648016",
+        "scientific_name": "Sylvia atricapilla",
+        "common_name": "Eurasian Blackcap",
+        "quality": "B",
+        "length": "1:15",
+        "recordist": "Dare Šere",
+        "country": "Slovenia",
+        "date": "2021-05-05",
+        "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+        "xc_url": "https://xeno-canto.org/648016"
+      }
+    ],
+    "call": [],
+    "alarm call": [],
+    "flight call": []
+  },
+  "Sylvia borin": {
+    "song": [
+      {
+        "xc_id": "566477",
+        "scientific_name": "Sylvia borin",
+        "common_name": "Garden Warbler",
+        "quality": "B",
+        "length": "0:56",
+        "recordist": "Dare Šere",
+        "country": "Slovenia",
+        "date": "2020-06-07",
+        "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+        "xc_url": "https://xeno-canto.org/566477"
+      }
+    ],
+    "call": [],
+    "alarm call": [],
+    "flight call": []
+  },
+  "Curruca nisoria": {
+    "song": [
+      {
+        "xc_id": "1010786",
+        "scientific_name": "Curruca nisoria",
+        "common_name": "Barred Warbler",
+        "quality": "B",
+        "length": "0:29",
+        "recordist": "Marco Preziosi",
+        "country": "Slovenia",
+        "date": "2025-06-20",
+        "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "xc_url": "https://xeno-canto.org/1010786"
+      },
+      {
+        "xc_id": "649349",
+        "scientific_name": "Curruca nisoria",
+        "common_name": "Barred Warbler",
+        "quality": "B",
+        "length": "0:32",
+        "recordist": "Dare Šere",
+        "country": "Slovenia",
+        "date": "2021-05-17",
+        "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+        "xc_url": "https://xeno-canto.org/649349"
+      },
+      {
+        "xc_id": "481661",
+        "scientific_name": "Curruca nisoria",
+        "common_name": "Barred Warbler",
+        "quality": "B",
+        "length": "1:53",
+        "recordist": "Dare Šere",
+        "country": "Slovenia",
+        "date": "2019-06-15",
+        "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+        "xc_url": "https://xeno-canto.org/481661"
+      },
+      {
+        "xc_id": "283123",
+        "scientific_name": "Curruca nisoria",
+        "common_name": "Barred Warbler",
+        "quality": "B",
+        "length": "1:39",
+        "recordist": "Dare Šere",
+        "country": "Slovenia",
+        "date": "2015-05-25",
+        "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "xc_url": "https://xeno-canto.org/283123"
+      }
+    ],
+    "call": [
+      {
+        "xc_id": "1010786",
+        "scientific_name": "Curruca nisoria",
+        "common_name": "Barred Warbler",
+        "quality": "B",
+        "length": "0:29",
+        "recordist": "Marco Preziosi",
+        "country": "Slovenia",
+        "date": "2025-06-20",
+        "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "xc_url": "https://xeno-canto.org/1010786"
+      }
+    ],
+    "alarm call": [],
+    "flight call": []
+  },
+  "Curruca curruca": {
+    "song": [
+      {
+        "xc_id": "1007221",
+        "scientific_name": "Curruca curruca",
+        "common_name": "Lesser Whitethroat",
+        "quality": "B",
+        "length": "1:29",
+        "recordist": "Dare Šere",
+        "country": "Slovenia",
+        "date": "2025-06-15",
+        "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+        "xc_url": "https://xeno-canto.org/1007221"
+      },
+      {
+        "xc_id": "724588",
+        "scientific_name": "Curruca curruca",
+        "common_name": "Lesser Whitethroat",
+        "quality": "B",
+        "length": "0:30",
+        "recordist": "Dare Šere",
+        "country": "Slovenia",
+        "date": "2022-05-10",
+        "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+        "xc_url": "https://xeno-canto.org/724588"
+      },
+      {
+        "xc_id": "481250",
+        "scientific_name": "Curruca curruca",
+        "common_name": "Lesser Whitethroat",
+        "quality": "B",
+        "length": "1:14",
+        "recordist": "Dare Šere",
+        "country": "Slovenia",
+        "date": "2019-06-14",
+        "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+        "xc_url": "https://xeno-canto.org/481250"
+      }
+    ],
+    "call": [],
+    "alarm call": [],
+    "flight call": []
+  },
+  "Curruca cantillans": {
+    "song": [
+      {
+        "xc_id": "283124",
+        "scientific_name": "Curruca cantillans",
+        "common_name": "Eastern Subalpine Warbler",
+        "quality": "B",
+        "length": "0:53",
+        "recordist": "Dare Šere",
+        "country": "Slovenia",
+        "date": "2015-04-16",
+        "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "xc_url": "https://xeno-canto.org/283124"
+      }
+    ],
+    "call": [],
+    "alarm call": [],
+    "flight call": []
+  },
+  "Curruca communis": {
+    "song": [
+      {
+        "xc_id": "470485",
+        "scientific_name": "Curruca communis",
+        "common_name": "Common Whitethroat",
+        "quality": "A",
+        "length": "0:52",
+        "recordist": "Dare Šere",
+        "country": "Slovenia",
+        "date": "2019-05-03",
+        "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+        "xc_url": "https://xeno-canto.org/470485"
+      },
+      {
+        "xc_id": "718018",
+        "scientific_name": "Curruca communis",
+        "common_name": "Common Whitethroat",
+        "quality": "B",
+        "length": "0:58",
+        "recordist": "Dare Šere",
+        "country": "Slovenia",
+        "date": "2022-04-23",
+        "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+        "xc_url": "https://xeno-canto.org/718018"
+      },
+      {
+        "xc_id": "561662",
+        "scientific_name": "Curruca communis",
+        "common_name": "Common Whitethroat",
+        "quality": "B",
+        "length": "1:09",
+        "recordist": "Dare Šere",
+        "country": "Slovenia",
+        "date": "2020-05-24",
+        "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+        "xc_url": "https://xeno-canto.org/561662"
+      },
+      {
+        "xc_id": "321404",
+        "scientific_name": "Curruca communis",
+        "common_name": "Common Whitethroat",
+        "quality": "B",
+        "length": "1:07",
+        "recordist": "Dare Šere",
+        "country": "Slovenia",
+        "date": "2016-06-08",
+        "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "xc_url": "https://xeno-canto.org/321404"
+      }
+    ],
+    "call": [],
+    "alarm call": [],
+    "flight call": []
+  },
+  "Regulus ignicapilla": {
+    "song": [
+      {
+        "xc_id": "714087",
+        "scientific_name": "Regulus ignicapilla",
+        "common_name": "Common Firecrest",
+        "quality": "A",
+        "length": "1:14",
+        "recordist": "Dare Šere",
+        "country": "Slovenia",
+        "date": "2022-04-07",
+        "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+        "xc_url": "https://xeno-canto.org/714087"
+      },
+      {
+        "xc_id": "368044",
+        "scientific_name": "Regulus ignicapilla",
+        "common_name": "Common Firecrest",
+        "quality": "A",
+        "length": "0:53",
+        "recordist": "Dare Šere",
+        "country": "Slovenia",
+        "date": "2017-05-06",
+        "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "xc_url": "https://xeno-canto.org/368044"
+      },
+      {
+        "xc_id": "647683",
+        "scientific_name": "Regulus ignicapilla",
+        "common_name": "Common Firecrest",
+        "quality": "B",
+        "length": "1:18",
+        "recordist": "Dare Šere",
+        "country": "Slovenia",
+        "date": "2021-05-09",
+        "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+        "xc_url": "https://xeno-canto.org/647683"
+      },
+      {
+        "xc_id": "537528",
+        "scientific_name": "Regulus ignicapilla",
+        "common_name": "Common Firecrest",
+        "quality": "B",
+        "length": "0:54",
+        "recordist": "Dare Šere",
+        "country": "Slovenia",
+        "date": "2020-03-15",
+        "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+        "xc_url": "https://xeno-canto.org/537528"
+      }
+    ],
+    "call": [],
+    "alarm call": [],
+    "flight call": []
+  },
+  "Regulus regulus": {
+    "song": [
+      {
+        "xc_id": "649050",
+        "scientific_name": "Regulus regulus",
+        "common_name": "Goldcrest",
+        "quality": "B",
+        "length": "1:25",
+        "recordist": "Dare Šere",
+        "country": "Slovenia",
+        "date": "2021-05-14",
+        "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+        "xc_url": "https://xeno-canto.org/649050"
+      },
+      {
+        "xc_id": "557840",
+        "scientific_name": "Regulus regulus",
+        "common_name": "Goldcrest",
+        "quality": "B",
+        "length": "1:06",
+        "recordist": "Dare Šere",
+        "country": "Slovenia",
+        "date": "2020-05-10",
+        "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+        "xc_url": "https://xeno-canto.org/557840"
+      }
+    ],
+    "call": [],
+    "alarm call": [],
+    "flight call": []
+  },
+  "Troglodytes troglodytes": {
+    "song": [
+      {
+        "xc_id": "365857",
+        "scientific_name": "Troglodytes troglodytes",
+        "common_name": "Eurasian Wren",
+        "quality": "B",
+        "length": "1:03",
+        "recordist": "Dare Šere",
+        "country": "Slovenia",
+        "date": "2017-04-23",
+        "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "xc_url": "https://xeno-canto.org/365857"
+      },
+      {
+        "xc_id": "320819",
+        "scientific_name": "Troglodytes troglodytes",
+        "common_name": "Eurasian Wren",
+        "quality": "B",
+        "length": "0:23",
+        "recordist": "Dare Šere",
+        "country": "Slovenia",
+        "date": "2016-05-20",
+        "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "xc_url": "https://xeno-canto.org/320819"
+      }
+    ],
+    "call": [],
+    "alarm call": [],
+    "flight call": []
+  },
+  "Sitta europaea": {
+    "song": [
+      {
+        "xc_id": "715680",
+        "scientific_name": "Sitta europaea",
+        "common_name": "Eurasian Nuthatch",
+        "quality": "B",
+        "length": "2:18",
+        "recordist": "Dare Šere",
+        "country": "Slovenia",
+        "date": "2022-04-15",
+        "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+        "xc_url": "https://xeno-canto.org/715680"
+      }
+    ],
+    "call": [
+      {
+        "xc_id": "715680",
+        "scientific_name": "Sitta europaea",
+        "common_name": "Eurasian Nuthatch",
+        "quality": "B",
+        "length": "2:18",
+        "recordist": "Dare Šere",
+        "country": "Slovenia",
+        "date": "2022-04-15",
+        "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+        "xc_url": "https://xeno-canto.org/715680"
+      }
+    ],
+    "alarm call": [],
+    "flight call": []
+  },
+  "Certhia familiaris": {
+    "song": [
+      {
+        "xc_id": "543655",
+        "scientific_name": "Certhia familiaris",
+        "common_name": "Eurasian Treecreeper",
+        "quality": "B",
+        "length": "1:52",
+        "recordist": "Dare Šere",
+        "country": "Slovenia",
+        "date": "2020-04-09",
+        "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+        "xc_url": "https://xeno-canto.org/543655"
+      }
+    ],
+    "call": [],
+    "alarm call": [],
+    "flight call": []
+  },
+  "Turdus philomelos": {
+    "song": [
+      {
+        "xc_id": "1005076",
+        "scientific_name": "Turdus philomelos",
+        "common_name": "Song Thrush",
+        "quality": "B",
+        "length": "0:19",
+        "recordist": "Filippo Ceccolini",
+        "country": "Slovenia",
+        "date": "2025-06-01",
+        "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "xc_url": "https://xeno-canto.org/1005076"
+      },
+      {
+        "xc_id": "1002624",
+        "scientific_name": "Turdus philomelos",
+        "common_name": "Song Thrush",
+        "quality": "B",
+        "length": "0:12",
+        "recordist": "Filippo Ceccolini",
+        "country": "Slovenia",
+        "date": "2025-05-29",
+        "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "xc_url": "https://xeno-canto.org/1002624"
+      },
+      {
+        "xc_id": "712107",
+        "scientific_name": "Turdus philomelos",
+        "common_name": "Song Thrush",
+        "quality": "B",
+        "length": "3:24",
+        "recordist": "Dare Šere",
+        "country": "Slovenia",
+        "date": "2022-03-30",
+        "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+        "xc_url": "https://xeno-canto.org/712107"
+      }
+    ],
+    "call": [],
+    "alarm call": [],
+    "flight call": []
+  },
+  "Turdus viscivorus": {
+    "song": [
+      {
+        "xc_id": "647679",
+        "scientific_name": "Turdus viscivorus",
+        "common_name": "Mistle Thrush",
+        "quality": "B",
+        "length": "1:19",
+        "recordist": "Dare Šere",
+        "country": "Slovenia",
+        "date": "2021-05-09",
+        "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+        "xc_url": "https://xeno-canto.org/647679"
+      },
+      {
+        "xc_id": "632999",
+        "scientific_name": "Turdus viscivorus",
+        "common_name": "Mistle Thrush",
+        "quality": "B",
+        "length": "1:13",
+        "recordist": "Dare Šere",
+        "country": "Slovenia",
+        "date": "2021-03-27",
+        "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+        "xc_url": "https://xeno-canto.org/632999"
+      }
+    ],
+    "call": [],
+    "alarm call": [],
+    "flight call": []
+  },
+  "Turdus merula": {
+    "song": [
+      {
+        "xc_id": "303728",
+        "scientific_name": "Turdus merula",
+        "common_name": "Common Blackbird",
+        "quality": "B",
+        "length": "4:00",
+        "recordist": "Dare Šere",
+        "country": "Slovenia",
+        "date": "2015-04-26",
+        "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "xc_url": "https://xeno-canto.org/303728"
+      }
+    ],
+    "call": [],
+    "alarm call": [],
+    "flight call": []
+  },
+  "Turdus torquatus": {
+    "song": [
+      {
+        "xc_id": "722296",
+        "scientific_name": "Turdus torquatus",
+        "common_name": "Ring Ouzel",
+        "quality": "B",
+        "length": "0:36",
+        "recordist": "Dare Šere",
+        "country": "Slovenia",
+        "date": "2022-05-05",
+        "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+        "xc_url": "https://xeno-canto.org/722296"
+      }
+    ],
+    "call": [],
+    "alarm call": [],
+    "flight call": []
+  },
+  "Erithacus rubecula": {
+    "song": [
+      {
+        "xc_id": "704265",
+        "scientific_name": "Erithacus rubecula",
+        "common_name": "European Robin",
+        "quality": "B",
+        "length": "1:59",
+        "recordist": "Dare Šere",
+        "country": "Slovenia",
+        "date": "2022-02-24",
+        "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+        "xc_url": "https://xeno-canto.org/704265"
+      },
+      {
+        "xc_id": "537533",
+        "scientific_name": "Erithacus rubecula",
+        "common_name": "European Robin",
+        "quality": "B",
+        "length": "3:44",
+        "recordist": "Dare Šere",
+        "country": "Slovenia",
+        "date": "2020-03-09",
+        "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+        "xc_url": "https://xeno-canto.org/537533"
+      },
+      {
+        "xc_id": "321067",
+        "scientific_name": "Erithacus rubecula",
+        "common_name": "European Robin",
+        "quality": "B",
+        "length": "1:07",
+        "recordist": "Dare Šere",
+        "country": "Slovenia",
+        "date": "2016-05-20",
+        "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "xc_url": "https://xeno-canto.org/321067"
+      }
+    ],
+    "call": [],
+    "alarm call": [],
+    "flight call": []
+  },
+  "Luscinia megarhynchos": {
+    "song": [
+      {
+        "xc_id": "727351",
+        "scientific_name": "Luscinia megarhynchos",
+        "common_name": "Common Nightingale",
+        "quality": "A",
+        "length": "1:19",
+        "recordist": "Dare Šere",
+        "country": "Slovenia",
+        "date": "2022-05-27",
+        "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+        "xc_url": "https://xeno-canto.org/727351"
+      },
+      {
+        "xc_id": "652340",
+        "scientific_name": "Luscinia megarhynchos",
+        "common_name": "Common Nightingale",
+        "quality": "A",
+        "length": "0:23",
+        "recordist": "Dare Šere",
+        "country": "Slovenia",
+        "date": "2021-05-27",
+        "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+        "xc_url": "https://xeno-canto.org/652340"
+      },
+      {
+        "xc_id": "470482",
+        "scientific_name": "Luscinia megarhynchos",
+        "common_name": "Common Nightingale",
+        "quality": "A",
+        "length": "0:57",
+        "recordist": "Dare Šere",
+        "country": "Slovenia",
+        "date": "2019-05-04",
+        "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+        "xc_url": "https://xeno-canto.org/470482"
+      },
+      {
+        "xc_id": "409226",
+        "scientific_name": "Luscinia megarhynchos",
+        "common_name": "Common Nightingale",
+        "quality": "A",
+        "length": "1:47",
+        "recordist": "Dare Šere",
+        "country": "Slovenia",
+        "date": "2018-04-05",
+        "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "xc_url": "https://xeno-canto.org/409226"
+      }
+    ],
+    "call": [],
+    "alarm call": [],
+    "flight call": []
+  },
+  "Ficedula parva": {
+    "song": [
+      {
+        "xc_id": "725421",
+        "scientific_name": "Ficedula parva",
+        "common_name": "Red-breasted Flycatcher",
+        "quality": "B",
+        "length": "0:59",
+        "recordist": "Dare Šere",
+        "country": "Slovenia",
+        "date": "2022-05-18",
+        "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+        "xc_url": "https://xeno-canto.org/725421"
+      },
+      {
+        "xc_id": "654849",
+        "scientific_name": "Ficedula parva",
+        "common_name": "Red-breasted Flycatcher",
+        "quality": "B",
+        "length": "2:17",
+        "recordist": "Dare Šere",
+        "country": "Slovenia",
+        "date": "2021-05-21",
+        "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+        "xc_url": "https://xeno-canto.org/654849"
+      },
+      {
+        "xc_id": "559527",
+        "scientific_name": "Ficedula parva",
+        "common_name": "Red-breasted Flycatcher",
+        "quality": "B",
+        "length": "1:23",
+        "recordist": "Dare Šere",
+        "country": "Slovenia",
+        "date": "2020-05-18",
+        "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+        "xc_url": "https://xeno-canto.org/559527"
+      },
+      {
+        "xc_id": "476708",
+        "scientific_name": "Ficedula parva",
+        "common_name": "Red-breasted Flycatcher",
+        "quality": "B",
+        "length": "0:32",
+        "recordist": "Dare Šere",
+        "country": "Slovenia",
+        "date": "2019-05-25",
+        "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+        "xc_url": "https://xeno-canto.org/476708"
+      },
+      {
+        "xc_id": "320815",
+        "scientific_name": "Ficedula parva",
+        "common_name": "Red-breasted Flycatcher",
+        "quality": "B",
+        "length": "1:07",
+        "recordist": "Dare Šere",
+        "country": "Slovenia",
+        "date": "2016-05-20",
+        "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "xc_url": "https://xeno-canto.org/320815"
+      }
+    ],
+    "call": [
+      {
+        "xc_id": "654849",
+        "scientific_name": "Ficedula parva",
+        "common_name": "Red-breasted Flycatcher",
+        "quality": "B",
+        "length": "2:17",
+        "recordist": "Dare Šere",
+        "country": "Slovenia",
+        "date": "2021-05-21",
+        "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+        "xc_url": "https://xeno-canto.org/654849"
+      },
+      {
+        "xc_id": "320815",
+        "scientific_name": "Ficedula parva",
+        "common_name": "Red-breasted Flycatcher",
+        "quality": "B",
+        "length": "1:07",
+        "recordist": "Dare Šere",
+        "country": "Slovenia",
+        "date": "2016-05-20",
+        "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "xc_url": "https://xeno-canto.org/320815"
+      },
+      {
+        "xc_id": "252163",
+        "scientific_name": "Ficedula parva",
+        "common_name": "Red-breasted Flycatcher",
+        "quality": "B",
+        "length": "2:49",
+        "recordist": "Dare Sere",
+        "country": "Slovenia",
+        "date": "2015-06-06",
+        "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "xc_url": "https://xeno-canto.org/252163"
+      },
+      {
+        "xc_id": "1007993",
+        "scientific_name": "Ficedula parva",
+        "common_name": "Red-breasted Flycatcher",
+        "quality": "C",
+        "length": "0:43",
+        "recordist": "Dare Šere",
+        "country": "Slovenia",
+        "date": "2025-06-20",
+        "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+        "xc_url": "https://xeno-canto.org/1007993"
+      }
+    ],
+    "alarm call": [
+      {
+        "xc_id": "654849",
+        "scientific_name": "Ficedula parva",
+        "common_name": "Red-breasted Flycatcher",
+        "quality": "B",
+        "length": "2:17",
+        "recordist": "Dare Šere",
+        "country": "Slovenia",
+        "date": "2021-05-21",
+        "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+        "xc_url": "https://xeno-canto.org/654849"
+      }
+    ],
+    "flight call": []
+  },
+  "Ficedula albicollis": {
+    "song": [
+      {
+        "xc_id": "477383",
+        "scientific_name": "Ficedula albicollis",
+        "common_name": "Collared Flycatcher",
+        "quality": "B",
+        "length": "0:30",
+        "recordist": "Dare Šere",
+        "country": "Slovenia",
+        "date": "2019-05-25",
+        "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+        "xc_url": "https://xeno-canto.org/477383"
+      },
+      {
+        "xc_id": "998514",
+        "scientific_name": "Ficedula albicollis",
+        "common_name": "Collared Flycatcher",
+        "quality": "C",
+        "length": "1:03",
+        "recordist": "Dare Šere",
+        "country": "Slovenia",
+        "date": "2025-05-15",
+        "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+        "xc_url": "https://xeno-canto.org/998514"
+      },
+      {
+        "xc_id": "796539",
+        "scientific_name": "Ficedula albicollis",
+        "common_name": "Collared Flycatcher",
+        "quality": "C",
+        "length": "1:54",
+        "recordist": "Branislav Oblučar",
+        "country": "Slovenia",
+        "date": "2023-04-27",
+        "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "xc_url": "https://xeno-canto.org/796539"
+      }
+    ],
+    "call": [],
+    "alarm call": [],
+    "flight call": []
+  },
+  "Phoenicurus ochruros": {
+    "song": [
+      {
+        "xc_id": "572977",
+        "scientific_name": "Phoenicurus ochruros",
+        "common_name": "Black Redstart",
+        "quality": "B",
+        "length": "1:02",
+        "recordist": "Dare Šere",
+        "country": "Slovenia",
+        "date": "2020-07-02",
+        "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+        "xc_url": "https://xeno-canto.org/572977"
+      },
+      {
+        "xc_id": "371016",
+        "scientific_name": "Phoenicurus ochruros",
+        "common_name": "Black Redstart",
+        "quality": "D",
+        "length": "0:29",
+        "recordist": "PiaH",
+        "country": "Slovenia",
+        "date": "2017-05-20",
+        "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "xc_url": "https://xeno-canto.org/371016"
+      }
+    ],
+    "call": [],
+    "alarm call": [],
+    "flight call": []
+  },
+  "Phoenicurus phoenicurus": {
+    "song": [
+      {
+        "xc_id": "731126",
+        "scientific_name": "Phoenicurus phoenicurus",
+        "common_name": "Common Redstart",
+        "quality": "B",
+        "length": "0:47",
+        "recordist": "Dare Šere",
+        "country": "Slovenia",
+        "date": "2022-06-11",
+        "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+        "xc_url": "https://xeno-canto.org/731126"
+      },
+      {
+        "xc_id": "572988",
+        "scientific_name": "Phoenicurus phoenicurus",
+        "common_name": "Common Redstart",
+        "quality": "B",
+        "length": "0:15",
+        "recordist": "Dare Šere",
+        "country": "Slovenia",
+        "date": "2020-06-13",
+        "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+        "xc_url": "https://xeno-canto.org/572988"
+      }
+    ],
+    "call": [],
+    "alarm call": [],
+    "flight call": []
+  },
+  "Saxicola rubetra": {
+    "song": [
+      {
+        "xc_id": "554940",
+        "scientific_name": "Saxicola rubetra",
+        "common_name": "Whinchat",
+        "quality": "B",
+        "length": "10:07",
+        "recordist": "Dare Šere",
+        "country": "Slovenia",
+        "date": "2020-05-07",
+        "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+        "xc_url": "https://xeno-canto.org/554940"
+      },
+      {
+        "xc_id": "322580",
+        "scientific_name": "Saxicola rubetra",
+        "common_name": "Whinchat",
+        "quality": "B",
+        "length": "1:03",
+        "recordist": "Dare Šere",
+        "country": "Slovenia",
+        "date": "2016-06-19",
+        "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "xc_url": "https://xeno-canto.org/322580"
+      }
+    ],
+    "call": [],
+    "alarm call": [],
+    "flight call": []
+  },
+  "Passer montanus": {
+    "song": [],
+    "call": [
+      {
+        "xc_id": "990523",
+        "scientific_name": "Passer montanus",
+        "common_name": "Eurasian Tree Sparrow",
+        "quality": "A",
+        "length": "1:21",
+        "recordist": "João Tomás",
+        "country": "Slovenia",
+        "date": "2025-04-13",
+        "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "xc_url": "https://xeno-canto.org/990523"
+      }
+    ],
+    "alarm call": [],
+    "flight call": []
+  },
+  "Passer domesticus": {
+    "song": [
+      {
+        "xc_id": "787045",
+        "scientific_name": "Passer domesticus",
+        "common_name": "House Sparrow",
+        "quality": "A",
+        "length": "1:13",
+        "recordist": "Dare Šere",
+        "country": "Slovenia",
+        "date": "2023-03-20",
+        "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+        "xc_url": "https://xeno-canto.org/787045"
+      }
+    ],
+    "call": [
+      {
+        "xc_id": "787045",
+        "scientific_name": "Passer domesticus",
+        "common_name": "House Sparrow",
+        "quality": "A",
+        "length": "1:13",
+        "recordist": "Dare Šere",
+        "country": "Slovenia",
+        "date": "2023-03-20",
+        "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+        "xc_url": "https://xeno-canto.org/787045"
+      },
+      {
+        "xc_id": "590872",
+        "scientific_name": "Passer domesticus",
+        "common_name": "House Sparrow",
+        "quality": "A",
+        "length": "0:32",
+        "recordist": "Dare Šere",
+        "country": "Slovenia",
+        "date": "2020-09-23",
+        "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+        "xc_url": "https://xeno-canto.org/590872"
+      },
+      {
+        "xc_id": "302911",
+        "scientific_name": "Passer domesticus",
+        "common_name": "House Sparrow",
+        "quality": "B",
+        "length": "1:07",
+        "recordist": "Dare Šere",
+        "country": "Slovenia",
+        "date": "2016-02-05",
+        "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "xc_url": "https://xeno-canto.org/302911"
+      }
+    ],
+    "alarm call": [],
+    "flight call": []
+  },
+  "Prunella modularis": {
+    "song": [
+      {
+        "xc_id": "263615",
+        "scientific_name": "Prunella modularis",
+        "common_name": "Dunnock",
+        "quality": "D",
+        "length": "0:41",
+        "recordist": "Dare Šere",
+        "country": "Slovenia",
+        "date": "2015-06-22",
+        "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "xc_url": "https://xeno-canto.org/263615"
+      }
+    ],
+    "call": [
+      {
+        "xc_id": "704004",
+        "scientific_name": "Prunella modularis",
+        "common_name": "Dunnock",
+        "quality": "B",
+        "length": "0:36",
+        "recordist": "Dare Šere",
+        "country": "Slovenia",
+        "date": "2022-02-23",
+        "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+        "xc_url": "https://xeno-canto.org/704004"
+      }
+    ],
+    "alarm call": [],
+    "flight call": []
+  },
+  "Motacilla flava": {
+    "song": [],
+    "call": [
+      {
+        "xc_id": "659728",
+        "scientific_name": "Motacilla flava",
+        "common_name": "Western Yellow Wagtail",
+        "quality": "B",
+        "length": "1:38",
+        "recordist": "Dare Šere",
+        "country": "Slovenia",
+        "date": "2021-06-27",
+        "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+        "xc_url": "https://xeno-canto.org/659728"
+      }
+    ],
+    "alarm call": [
+      {
+        "xc_id": "659728",
+        "scientific_name": "Motacilla flava",
+        "common_name": "Western Yellow Wagtail",
+        "quality": "B",
+        "length": "1:38",
+        "recordist": "Dare Šere",
+        "country": "Slovenia",
+        "date": "2021-06-27",
+        "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+        "xc_url": "https://xeno-canto.org/659728"
+      }
+    ],
+    "flight call": []
+  },
+  "Motacilla cinerea": {
+    "song": [
+      {
+        "xc_id": "990515",
+        "scientific_name": "Motacilla cinerea",
+        "common_name": "Grey Wagtail",
+        "quality": "B",
+        "length": "0:18",
+        "recordist": "João Tomás",
+        "country": "Slovenia",
+        "date": "2025-04-13",
+        "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "xc_url": "https://xeno-canto.org/990515"
+      }
+    ],
+    "call": [
+      {
+        "xc_id": "710089",
+        "scientific_name": "Motacilla cinerea",
+        "common_name": "Grey Wagtail",
+        "quality": "B",
+        "length": "0:11",
+        "recordist": "Dare Šere",
+        "country": "Slovenia",
+        "date": "2022-03-21",
+        "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+        "xc_url": "https://xeno-canto.org/710089"
+      }
+    ],
+    "alarm call": [],
+    "flight call": []
+  },
+  "Motacilla alba": {
+    "song": [],
+    "call": [
+      {
+        "xc_id": "662562",
+        "scientific_name": "Motacilla alba",
+        "common_name": "White Wagtail",
+        "quality": "B",
+        "length": "0:35",
+        "recordist": "Domagoj Tomičić",
+        "country": "Slovenia",
+        "date": "2021-07-07",
+        "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "xc_url": "https://xeno-canto.org/662562"
+      }
+    ],
+    "alarm call": [],
+    "flight call": []
+  },
+  "Anthus campestris": {
+    "song": [],
+    "call": [
+      {
+        "xc_id": "323207",
+        "scientific_name": "Anthus campestris",
+        "common_name": "Tawny Pipit",
+        "quality": "C",
+        "length": "0:40",
+        "recordist": "Dare Šere",
+        "country": "Slovenia",
+        "date": "2016-06-14",
+        "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "xc_url": "https://xeno-canto.org/323207"
+      }
+    ],
+    "alarm call": [],
+    "flight call": []
+  },
+  "Anthus trivialis": {
+    "song": [
+      {
+        "xc_id": "990610",
+        "scientific_name": "Anthus trivialis",
+        "common_name": "Tree Pipit",
+        "quality": "A",
+        "length": "0:56",
+        "recordist": "João Tomás",
+        "country": "Slovenia",
+        "date": "2025-04-16",
+        "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "xc_url": "https://xeno-canto.org/990610"
+      },
+      {
+        "xc_id": "718026",
+        "scientific_name": "Anthus trivialis",
+        "common_name": "Tree Pipit",
+        "quality": "B",
+        "length": "3:19",
+        "recordist": "Dare Šere",
+        "country": "Slovenia",
+        "date": "2022-04-23",
+        "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+        "xc_url": "https://xeno-canto.org/718026"
+      },
+      {
+        "xc_id": "473492",
+        "scientific_name": "Anthus trivialis",
+        "common_name": "Tree Pipit",
+        "quality": "B",
+        "length": "1:01",
+        "recordist": "Dare Šere",
+        "country": "Slovenia",
+        "date": "2019-05-10",
+        "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+        "xc_url": "https://xeno-canto.org/473492"
+      }
+    ],
+    "call": [],
+    "alarm call": [],
+    "flight call": []
+  },
+  "Fringilla coelebs": {
+    "song": [
+      {
+        "xc_id": "1105250",
+        "scientific_name": "Fringilla coelebs",
+        "common_name": "Common Chaffinch",
+        "quality": "B",
+        "length": "0:04",
+        "recordist": "Mislav Kuzic",
+        "country": "Slovenia",
+        "date": "2025-06-01",
+        "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "xc_url": "https://xeno-canto.org/1105250"
+      },
+      {
+        "xc_id": "1005079",
+        "scientific_name": "Fringilla coelebs",
+        "common_name": "Common Chaffinch",
+        "quality": "B",
+        "length": "0:04",
+        "recordist": "Filippo Ceccolini",
+        "country": "Slovenia",
+        "date": "2025-06-01",
+        "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "xc_url": "https://xeno-canto.org/1005079"
+      },
+      {
+        "xc_id": "1002622",
+        "scientific_name": "Fringilla coelebs",
+        "common_name": "Common Chaffinch",
+        "quality": "B",
+        "length": "0:02",
+        "recordist": "Filippo Ceccolini",
+        "country": "Slovenia",
+        "date": "2025-05-29",
+        "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "xc_url": "https://xeno-canto.org/1002622"
+      },
+      {
+        "xc_id": "1005080",
+        "scientific_name": "Fringilla coelebs",
+        "common_name": "Common Chaffinch",
+        "quality": "C",
+        "length": "0:03",
+        "recordist": "Filippo Ceccolini",
+        "country": "Slovenia",
+        "date": "2025-06-02",
+        "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "xc_url": "https://xeno-canto.org/1005080"
+      }
+    ],
+    "call": [],
+    "alarm call": [],
+    "flight call": []
+  },
+  "Fringilla montifringilla": {
+    "song": [],
+    "call": [
+      {
+        "xc_id": "455406",
+        "scientific_name": "Fringilla montifringilla",
+        "common_name": "Brambling",
+        "quality": "B",
+        "length": "1:01",
+        "recordist": "Dare Šere",
+        "country": "Slovenia",
+        "date": "2019-02-06",
+        "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+        "xc_url": "https://xeno-canto.org/455406"
+      },
+      {
+        "xc_id": "454577",
+        "scientific_name": "Fringilla montifringilla",
+        "common_name": "Brambling",
+        "quality": "B",
+        "length": "2:01",
+        "recordist": "Gerard Gorman",
+        "country": "Slovenia",
+        "date": "2019-02-01",
+        "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "xc_url": "https://xeno-canto.org/454577"
+      }
+    ],
+    "alarm call": [],
+    "flight call": [
+      {
+        "xc_id": "454577",
+        "scientific_name": "Fringilla montifringilla",
+        "common_name": "Brambling",
+        "quality": "B",
+        "length": "2:01",
+        "recordist": "Gerard Gorman",
+        "country": "Slovenia",
+        "date": "2019-02-01",
+        "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "xc_url": "https://xeno-canto.org/454577"
+      }
+    ]
+  },
+  "Pyrrhula pyrrhula": {
+    "song": [],
+    "call": [
+      {
+        "xc_id": "958179",
+        "scientific_name": "Pyrrhula pyrrhula",
+        "common_name": "Eurasian Bullfinch",
+        "quality": "B",
+        "length": "0:34",
+        "recordist": "András Schmidt",
+        "country": "Slovenia",
+        "date": "2024-08-21",
+        "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "xc_url": "https://xeno-canto.org/958179"
+      },
+      {
+        "xc_id": "393501",
+        "scientific_name": "Pyrrhula pyrrhula",
+        "common_name": "Eurasian Bullfinch",
+        "quality": "B",
+        "length": "1:43",
+        "recordist": "Dare Šere",
+        "country": "Slovenia",
+        "date": "2017-11-10",
+        "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "xc_url": "https://xeno-canto.org/393501"
+      }
+    ],
+    "alarm call": [],
+    "flight call": []
+  },
+  "Carpodacus erythrinus": {
+    "song": [
+      {
+        "xc_id": "372429",
+        "scientific_name": "Carpodacus erythrinus",
+        "common_name": "Common Rosefinch",
+        "quality": "A",
+        "length": "1:11",
+        "recordist": "Dare Šere",
+        "country": "Slovenia",
+        "date": "2017-05-27",
+        "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "xc_url": "https://xeno-canto.org/372429"
+      },
+      {
+        "xc_id": "252176",
+        "scientific_name": "Carpodacus erythrinus",
+        "common_name": "Common Rosefinch",
+        "quality": "A",
+        "length": "1:16",
+        "recordist": "Dare Šere",
+        "country": "Slovenia",
+        "date": "2015-06-09",
+        "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "xc_url": "https://xeno-canto.org/252176"
+      },
+      {
+        "xc_id": "655718",
+        "scientific_name": "Carpodacus erythrinus",
+        "common_name": "Common Rosefinch",
+        "quality": "B",
+        "length": "1:00",
+        "recordist": "Dare Šere",
+        "country": "Slovenia",
+        "date": "2021-06-10",
+        "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+        "xc_url": "https://xeno-canto.org/655718"
+      },
+      {
+        "xc_id": "566483",
+        "scientific_name": "Carpodacus erythrinus",
+        "common_name": "Common Rosefinch",
+        "quality": "B",
+        "length": "0:26",
+        "recordist": "Dare Šere",
+        "country": "Slovenia",
+        "date": "2020-06-07",
+        "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+        "xc_url": "https://xeno-canto.org/566483"
+      },
+      {
+        "xc_id": "561289",
+        "scientific_name": "Carpodacus erythrinus",
+        "common_name": "Common Rosefinch",
+        "quality": "B",
+        "length": "1:06",
+        "recordist": "Dare Šere",
+        "country": "Slovenia",
+        "date": "2020-05-23",
+        "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+        "xc_url": "https://xeno-canto.org/561289"
+      }
+    ],
+    "call": [],
+    "alarm call": [],
+    "flight call": []
+  },
+  "Chloris chloris": {
+    "song": [
+      {
+        "xc_id": "714926",
+        "scientific_name": "Chloris chloris",
+        "common_name": "European Greenfinch",
+        "quality": "B",
+        "length": "0:44",
+        "recordist": "Dare Šere",
+        "country": "Slovenia",
+        "date": "2022-04-11",
+        "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+        "xc_url": "https://xeno-canto.org/714926"
+      }
+    ],
+    "call": [],
+    "alarm call": [],
+    "flight call": []
+  },
+  "Loxia curvirostra": {
+    "song": [
+      {
+        "xc_id": "293449",
+        "scientific_name": "Loxia curvirostra",
+        "common_name": "Red Crossbill",
+        "quality": "C",
+        "length": "0:55",
+        "recordist": "Dare Šere",
+        "country": "Slovenia",
+        "date": "2015-12-03",
+        "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "xc_url": "https://xeno-canto.org/293449"
+      }
+    ],
+    "call": [
+      {
+        "xc_id": "293451",
+        "scientific_name": "Loxia curvirostra",
+        "common_name": "Red Crossbill",
+        "quality": "B",
+        "length": "0:24",
+        "recordist": "Dare Šere",
+        "country": "Slovenia",
+        "date": "2015-12-03",
+        "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "xc_url": "https://xeno-canto.org/293451"
+      }
+    ],
+    "alarm call": [],
+    "flight call": []
+  },
+  "Emberiza calandra": {
+    "song": [
+      {
+        "xc_id": "561623",
+        "scientific_name": "Emberiza calandra",
+        "common_name": "Corn Bunting",
+        "quality": "B",
+        "length": "0:34",
+        "recordist": "Dare Šere",
+        "country": "Slovenia",
+        "date": "2020-05-24",
+        "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+        "xc_url": "https://xeno-canto.org/561623"
+      }
+    ],
+    "call": [
+      {
+        "xc_id": "581557",
+        "scientific_name": "Emberiza calandra",
+        "common_name": "Corn Bunting",
+        "quality": "B",
+        "length": "0:44",
+        "recordist": "Hans Schekkerman",
+        "country": "Slovenia",
+        "date": "2019-07-25",
+        "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "xc_url": "https://xeno-canto.org/581557"
+      }
+    ],
+    "alarm call": [
+      {
+        "xc_id": "581557",
+        "scientific_name": "Emberiza calandra",
+        "common_name": "Corn Bunting",
+        "quality": "B",
+        "length": "0:44",
+        "recordist": "Hans Schekkerman",
+        "country": "Slovenia",
+        "date": "2019-07-25",
+        "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "xc_url": "https://xeno-canto.org/581557"
+      }
+    ],
+    "flight call": []
+  },
+  "Emberiza cia": {
+    "song": [
+      {
+        "xc_id": "572985",
+        "scientific_name": "Emberiza cia",
+        "common_name": "Rock Bunting",
+        "quality": "C",
+        "length": "0:41",
+        "recordist": "Dare Šere",
+        "country": "Slovenia",
+        "date": "2020-06-13",
+        "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+        "xc_url": "https://xeno-canto.org/572985"
+      }
+    ],
+    "call": [
+      {
+        "xc_id": "581558",
+        "scientific_name": "Emberiza cia",
+        "common_name": "Rock Bunting",
+        "quality": "C",
+        "length": "0:18",
+        "recordist": "Hans Schekkerman",
+        "country": "Slovenia",
+        "date": "2019-07-25",
+        "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "xc_url": "https://xeno-canto.org/581558"
+      }
+    ],
+    "alarm call": [
+      {
+        "xc_id": "581558",
+        "scientific_name": "Emberiza cia",
+        "common_name": "Rock Bunting",
+        "quality": "C",
+        "length": "0:18",
+        "recordist": "Hans Schekkerman",
+        "country": "Slovenia",
+        "date": "2019-07-25",
+        "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "xc_url": "https://xeno-canto.org/581558"
+      }
+    ],
+    "flight call": []
+  },
+  "Emberiza cirlus": {
+    "song": [],
+    "call": [],
+    "alarm call": [],
+    "flight call": []
+  },
+  "Emberiza melanocephala": {
+    "song": [
+      {
+        "xc_id": "322344",
+        "scientific_name": "Emberiza melanocephala",
+        "common_name": "Black-headed Bunting",
+        "quality": "B",
+        "length": "1:57",
+        "recordist": "Dare Šere",
+        "country": "Slovenia",
+        "date": "2016-06-14",
+        "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "xc_url": "https://xeno-canto.org/322344"
+      }
+    ],
+    "call": [],
+    "alarm call": [],
+    "flight call": []
+  },
+  "Emberiza schoeniclus": {
+    "song": [
+      {
+        "xc_id": "910804",
+        "scientific_name": "Emberiza schoeniclus",
+        "common_name": "Common Reed Bunting",
+        "quality": "B",
+        "length": "1:07",
+        "recordist": "Dare Šere",
+        "country": "Slovenia",
+        "date": "2024-06-05",
+        "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+        "xc_url": "https://xeno-canto.org/910804"
+      },
+      {
+        "xc_id": "803981",
+        "scientific_name": "Emberiza schoeniclus",
+        "common_name": "Common Reed Bunting",
+        "quality": "B",
+        "length": "2:18",
+        "recordist": "Dare Šere",
+        "country": "Slovenia",
+        "date": "2023-05-26",
+        "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+        "xc_url": "https://xeno-canto.org/803981"
+      },
+      {
+        "xc_id": "572969",
+        "scientific_name": "Emberiza schoeniclus",
+        "common_name": "Common Reed Bunting",
+        "quality": "B",
+        "length": "0:25",
+        "recordist": "Dare Šere",
+        "country": "Slovenia",
+        "date": "2020-07-02",
+        "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+        "xc_url": "https://xeno-canto.org/572969"
+      },
+      {
+        "xc_id": "321424",
+        "scientific_name": "Emberiza schoeniclus",
+        "common_name": "Common Reed Bunting",
+        "quality": "B",
+        "length": "1:08",
+        "recordist": "Dare Šere",
+        "country": "Slovenia",
+        "date": "2016-05-21",
+        "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "xc_url": "https://xeno-canto.org/321424"
+      }
+    ],
+    "call": [],
+    "alarm call": [],
+    "flight call": []
+  },
+  "Gryllus campestris": {
+    "song": [
+      {
+        "xc_id": "658917",
+        "scientific_name": "Gryllus campestris",
+        "common_name": "Field Cricket",
+        "quality": "B",
+        "length": "0:41",
+        "recordist": "Stuart Fisher",
+        "country": "Slovenia",
+        "date": "2016-05-17",
+        "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "xc_url": "https://xeno-canto.org/658917"
+      }
+    ],
+    "call": [],
+    "alarm call": [],
+    "flight call": []
+  },
+  "Barbitistes yersini": {
+    "song": [
+      {
+        "xc_id": "866439",
+        "scientific_name": "Barbitistes yersini",
+        "common_name": "Balkan Saw Bush-cricket",
+        "quality": "B",
+        "length": "0:29",
+        "recordist": "K.-G. Heller",
+        "country": "Slovenia",
+        "date": "1986-07-09",
+        "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "xc_url": "https://xeno-canto.org/866439"
+      },
+      {
+        "xc_id": "866438",
+        "scientific_name": "Barbitistes yersini",
+        "common_name": "Balkan Saw Bush-cricket",
+        "quality": "B",
+        "length": "0:17",
+        "recordist": "K.-G. Heller",
+        "country": "Slovenia",
+        "date": "1986-07-09",
+        "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "xc_url": "https://xeno-canto.org/866438"
+      },
+      {
+        "xc_id": "866437",
+        "scientific_name": "Barbitistes yersini",
+        "common_name": "Balkan Saw Bush-cricket",
+        "quality": "B",
+        "length": "0:07",
+        "recordist": "K.-G. Heller",
+        "country": "Slovenia",
+        "date": "1986-07-09",
+        "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "xc_url": "https://xeno-canto.org/866437"
+      },
+      {
+        "xc_id": "866436",
+        "scientific_name": "Barbitistes yersini",
+        "common_name": "Balkan Saw Bush-cricket",
+        "quality": "B",
+        "length": "0:40",
+        "recordist": "K.-G. Heller",
+        "country": "Slovenia",
+        "date": "1986-07-09",
+        "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "xc_url": "https://xeno-canto.org/866436"
+      },
+      {
+        "xc_id": "866435",
+        "scientific_name": "Barbitistes yersini",
+        "common_name": "Balkan Saw Bush-cricket",
+        "quality": "B",
+        "length": "0:02",
+        "recordist": "K.-G. Heller",
+        "country": "Slovenia",
+        "date": "1986-07-09",
+        "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "xc_url": "https://xeno-canto.org/866435"
+      }
+    ],
+    "call": [
+      {
+        "xc_id": "866439",
+        "scientific_name": "Barbitistes yersini",
+        "common_name": "Balkan Saw Bush-cricket",
+        "quality": "B",
+        "length": "0:29",
+        "recordist": "K.-G. Heller",
+        "country": "Slovenia",
+        "date": "1986-07-09",
+        "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "xc_url": "https://xeno-canto.org/866439"
+      },
+      {
+        "xc_id": "866438",
+        "scientific_name": "Barbitistes yersini",
+        "common_name": "Balkan Saw Bush-cricket",
+        "quality": "B",
+        "length": "0:17",
+        "recordist": "K.-G. Heller",
+        "country": "Slovenia",
+        "date": "1986-07-09",
+        "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "xc_url": "https://xeno-canto.org/866438"
+      },
+      {
+        "xc_id": "866437",
+        "scientific_name": "Barbitistes yersini",
+        "common_name": "Balkan Saw Bush-cricket",
+        "quality": "B",
+        "length": "0:07",
+        "recordist": "K.-G. Heller",
+        "country": "Slovenia",
+        "date": "1986-07-09",
+        "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "xc_url": "https://xeno-canto.org/866437"
+      },
+      {
+        "xc_id": "866436",
+        "scientific_name": "Barbitistes yersini",
+        "common_name": "Balkan Saw Bush-cricket",
+        "quality": "B",
+        "length": "0:40",
+        "recordist": "K.-G. Heller",
+        "country": "Slovenia",
+        "date": "1986-07-09",
+        "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "xc_url": "https://xeno-canto.org/866436"
+      },
+      {
+        "xc_id": "866435",
+        "scientific_name": "Barbitistes yersini",
+        "common_name": "Balkan Saw Bush-cricket",
+        "quality": "B",
+        "length": "0:02",
+        "recordist": "K.-G. Heller",
+        "country": "Slovenia",
+        "date": "1986-07-09",
+        "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "xc_url": "https://xeno-canto.org/866435"
+      }
+    ],
+    "alarm call": [],
+    "flight call": []
+  },
+  "Bicolorana bicolor": {
+    "song": [
+      {
+        "xc_id": "867422",
+        "scientific_name": "Bicolorana bicolor",
+        "common_name": "",
+        "quality": "B",
+        "length": "0:12",
+        "recordist": "K.-G. Heller",
+        "country": "Slovenia",
+        "date": "1979-07-20",
+        "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "xc_url": "https://xeno-canto.org/867422"
+      },
+      {
+        "xc_id": "867421",
+        "scientific_name": "Bicolorana bicolor",
+        "common_name": "",
+        "quality": "B",
+        "length": "0:29",
+        "recordist": "K.-G. Heller",
+        "country": "Slovenia",
+        "date": "1979-07-20",
+        "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "xc_url": "https://xeno-canto.org/867421"
+      },
+      {
+        "xc_id": "867420",
+        "scientific_name": "Bicolorana bicolor",
+        "common_name": "",
+        "quality": "B",
+        "length": "0:07",
+        "recordist": "K.-G. Heller",
+        "country": "Slovenia",
+        "date": "1979-07-20",
+        "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "xc_url": "https://xeno-canto.org/867420"
+      }
+    ],
+    "call": [
+      {
+        "xc_id": "867422",
+        "scientific_name": "Bicolorana bicolor",
+        "common_name": "",
+        "quality": "B",
+        "length": "0:12",
+        "recordist": "K.-G. Heller",
+        "country": "Slovenia",
+        "date": "1979-07-20",
+        "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "xc_url": "https://xeno-canto.org/867422"
+      },
+      {
+        "xc_id": "867421",
+        "scientific_name": "Bicolorana bicolor",
+        "common_name": "",
+        "quality": "B",
+        "length": "0:29",
+        "recordist": "K.-G. Heller",
+        "country": "Slovenia",
+        "date": "1979-07-20",
+        "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "xc_url": "https://xeno-canto.org/867421"
+      },
+      {
+        "xc_id": "867420",
+        "scientific_name": "Bicolorana bicolor",
+        "common_name": "",
+        "quality": "B",
+        "length": "0:07",
+        "recordist": "K.-G. Heller",
+        "country": "Slovenia",
+        "date": "1979-07-20",
+        "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "xc_url": "https://xeno-canto.org/867420"
+      }
+    ],
+    "alarm call": [],
+    "flight call": []
+  },
+  "Bicolorana kraussi": {
+    "song": [
+      {
+        "xc_id": "867480",
+        "scientific_name": "Bicolorana kraussi",
+        "common_name": "Croatian Meadow Bush-cricket",
+        "quality": "B",
+        "length": "0:29",
+        "recordist": "K.-G. Heller",
+        "country": "Slovenia",
+        "date": "1981-08-24",
+        "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "xc_url": "https://xeno-canto.org/867480"
+      },
+      {
+        "xc_id": "867479",
+        "scientific_name": "Bicolorana kraussi",
+        "common_name": "Croatian Meadow Bush-cricket",
+        "quality": "B",
+        "length": "0:23",
+        "recordist": "K.-G. Heller",
+        "country": "Slovenia",
+        "date": "1981-08-24",
+        "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "xc_url": "https://xeno-canto.org/867479"
+      },
+      {
+        "xc_id": "867478",
+        "scientific_name": "Bicolorana kraussi",
+        "common_name": "Croatian Meadow Bush-cricket",
+        "quality": "B",
+        "length": "0:46",
+        "recordist": "K.-G. Heller",
+        "country": "Slovenia",
+        "date": "1981-08-24",
+        "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "xc_url": "https://xeno-canto.org/867478"
+      },
+      {
+        "xc_id": "867477",
+        "scientific_name": "Bicolorana kraussi",
+        "common_name": "Croatian Meadow Bush-cricket",
+        "quality": "B",
+        "length": "0:05",
+        "recordist": "K.-G. Heller",
+        "country": "Slovenia",
+        "date": "1981-08-24",
+        "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "xc_url": "https://xeno-canto.org/867477"
+      },
+      {
+        "xc_id": "867476",
+        "scientific_name": "Bicolorana kraussi",
+        "common_name": "Croatian Meadow Bush-cricket",
+        "quality": "B",
+        "length": "0:03",
+        "recordist": "K.-G. Heller",
+        "country": "Slovenia",
+        "date": "1981-08-24",
+        "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "xc_url": "https://xeno-canto.org/867476"
+      }
+    ],
+    "call": [
+      {
+        "xc_id": "867480",
+        "scientific_name": "Bicolorana kraussi",
+        "common_name": "Croatian Meadow Bush-cricket",
+        "quality": "B",
+        "length": "0:29",
+        "recordist": "K.-G. Heller",
+        "country": "Slovenia",
+        "date": "1981-08-24",
+        "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "xc_url": "https://xeno-canto.org/867480"
+      },
+      {
+        "xc_id": "867479",
+        "scientific_name": "Bicolorana kraussi",
+        "common_name": "Croatian Meadow Bush-cricket",
+        "quality": "B",
+        "length": "0:23",
+        "recordist": "K.-G. Heller",
+        "country": "Slovenia",
+        "date": "1981-08-24",
+        "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "xc_url": "https://xeno-canto.org/867479"
+      },
+      {
+        "xc_id": "867478",
+        "scientific_name": "Bicolorana kraussi",
+        "common_name": "Croatian Meadow Bush-cricket",
+        "quality": "B",
+        "length": "0:46",
+        "recordist": "K.-G. Heller",
+        "country": "Slovenia",
+        "date": "1981-08-24",
+        "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "xc_url": "https://xeno-canto.org/867478"
+      },
+      {
+        "xc_id": "867477",
+        "scientific_name": "Bicolorana kraussi",
+        "common_name": "Croatian Meadow Bush-cricket",
+        "quality": "B",
+        "length": "0:05",
+        "recordist": "K.-G. Heller",
+        "country": "Slovenia",
+        "date": "1981-08-24",
+        "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "xc_url": "https://xeno-canto.org/867477"
+      },
+      {
+        "xc_id": "867476",
+        "scientific_name": "Bicolorana kraussi",
+        "common_name": "Croatian Meadow Bush-cricket",
+        "quality": "B",
+        "length": "0:03",
+        "recordist": "K.-G. Heller",
+        "country": "Slovenia",
+        "date": "1981-08-24",
+        "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "xc_url": "https://xeno-canto.org/867476"
+      }
+    ],
+    "alarm call": [],
+    "flight call": []
+  },
+  "Pachytrachis gracilis": {
+    "song": [
+      {
+        "xc_id": "870073",
+        "scientific_name": "Pachytrachis gracilis",
+        "common_name": "Graceful Bush-cricket",
+        "quality": "B",
+        "length": "0:31",
+        "recordist": "K.-G. Heller",
+        "country": "Slovenia",
+        "date": "1979-07-20",
+        "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "xc_url": "https://xeno-canto.org/870073"
+      }
+    ],
+    "call": [
+      {
+        "xc_id": "870073",
+        "scientific_name": "Pachytrachis gracilis",
+        "common_name": "Graceful Bush-cricket",
+        "quality": "B",
+        "length": "0:31",
+        "recordist": "K.-G. Heller",
+        "country": "Slovenia",
+        "date": "1979-07-20",
+        "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "xc_url": "https://xeno-canto.org/870073"
+      }
+    ],
+    "alarm call": [],
+    "flight call": []
+  },
+  "Pachytrachis striolatus": {
+    "song": [
+      {
+        "xc_id": "870111",
+        "scientific_name": "Pachytrachis striolatus",
+        "common_name": "Striated Bush-cricket",
+        "quality": "B",
+        "length": "0:09",
+        "recordist": "K.-G. Heller",
+        "country": "Slovenia",
+        "date": "1982-08-11",
+        "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "xc_url": "https://xeno-canto.org/870111"
+      },
+      {
+        "xc_id": "870110",
+        "scientific_name": "Pachytrachis striolatus",
+        "common_name": "Striated Bush-cricket",
+        "quality": "B",
+        "length": "0:36",
+        "recordist": "K.-G. Heller",
+        "country": "Slovenia",
+        "date": "1982-08-11",
+        "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "xc_url": "https://xeno-canto.org/870110"
+      },
+      {
+        "xc_id": "870109",
+        "scientific_name": "Pachytrachis striolatus",
+        "common_name": "Striated Bush-cricket",
+        "quality": "B",
+        "length": "0:56",
+        "recordist": "K.-G. Heller",
+        "country": "Slovenia",
+        "date": "1981-08-31",
+        "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "xc_url": "https://xeno-canto.org/870109"
+      },
+      {
+        "xc_id": "870108",
+        "scientific_name": "Pachytrachis striolatus",
+        "common_name": "Striated Bush-cricket",
+        "quality": "B",
+        "length": "0:26",
+        "recordist": "K.-G. Heller",
+        "country": "Slovenia",
+        "date": "1981-08-31",
+        "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "xc_url": "https://xeno-canto.org/870108"
+      }
+    ],
+    "call": [
+      {
+        "xc_id": "870111",
+        "scientific_name": "Pachytrachis striolatus",
+        "common_name": "Striated Bush-cricket",
+        "quality": "B",
+        "length": "0:09",
+        "recordist": "K.-G. Heller",
+        "country": "Slovenia",
+        "date": "1982-08-11",
+        "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "xc_url": "https://xeno-canto.org/870111"
+      },
+      {
+        "xc_id": "870110",
+        "scientific_name": "Pachytrachis striolatus",
+        "common_name": "Striated Bush-cricket",
+        "quality": "B",
+        "length": "0:36",
+        "recordist": "K.-G. Heller",
+        "country": "Slovenia",
+        "date": "1982-08-11",
+        "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "xc_url": "https://xeno-canto.org/870110"
+      },
+      {
+        "xc_id": "870109",
+        "scientific_name": "Pachytrachis striolatus",
+        "common_name": "Striated Bush-cricket",
+        "quality": "B",
+        "length": "0:56",
+        "recordist": "K.-G. Heller",
+        "country": "Slovenia",
+        "date": "1981-08-31",
+        "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "xc_url": "https://xeno-canto.org/870109"
+      },
+      {
+        "xc_id": "870108",
+        "scientific_name": "Pachytrachis striolatus",
+        "common_name": "Striated Bush-cricket",
+        "quality": "B",
+        "length": "0:26",
+        "recordist": "K.-G. Heller",
+        "country": "Slovenia",
+        "date": "1981-08-31",
+        "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "xc_url": "https://xeno-canto.org/870108"
+      }
+    ],
+    "alarm call": [],
+    "flight call": []
+  },
+  "Pholidoptera aptera": {
+    "song": [
+      {
+        "xc_id": "867889",
+        "scientific_name": "Pholidoptera aptera",
+        "common_name": "",
+        "quality": "B",
+        "length": "0:17",
+        "recordist": "K.-G. Heller",
+        "country": "Slovenia",
+        "date": "1981-09-04",
+        "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "xc_url": "https://xeno-canto.org/867889"
+      },
+      {
+        "xc_id": "867888",
+        "scientific_name": "Pholidoptera aptera",
+        "common_name": "",
+        "quality": "B",
+        "length": "0:16",
+        "recordist": "K.-G. Heller",
+        "country": "Slovenia",
+        "date": "1981-09-04",
+        "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "xc_url": "https://xeno-canto.org/867888"
+      },
+      {
+        "xc_id": "867887",
+        "scientific_name": "Pholidoptera aptera",
+        "common_name": "",
+        "quality": "B",
+        "length": "0:10",
+        "recordist": "K.-G. Heller",
+        "country": "Slovenia",
+        "date": "1981-09-04",
+        "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "xc_url": "https://xeno-canto.org/867887"
+      },
+      {
+        "xc_id": "867886",
+        "scientific_name": "Pholidoptera aptera",
+        "common_name": "",
+        "quality": "B",
+        "length": "0:15",
+        "recordist": "K.-G. Heller",
+        "country": "Slovenia",
+        "date": "1981-09-04",
+        "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "xc_url": "https://xeno-canto.org/867886"
+      },
+      {
+        "xc_id": "867885",
+        "scientific_name": "Pholidoptera aptera",
+        "common_name": "",
+        "quality": "B",
+        "length": "0:08",
+        "recordist": "K.-G. Heller",
+        "country": "Slovenia",
+        "date": "1981-08-28",
+        "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "xc_url": "https://xeno-canto.org/867885"
+      }
+    ],
+    "call": [
+      {
+        "xc_id": "867889",
+        "scientific_name": "Pholidoptera aptera",
+        "common_name": "",
+        "quality": "B",
+        "length": "0:17",
+        "recordist": "K.-G. Heller",
+        "country": "Slovenia",
+        "date": "1981-09-04",
+        "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "xc_url": "https://xeno-canto.org/867889"
+      },
+      {
+        "xc_id": "867888",
+        "scientific_name": "Pholidoptera aptera",
+        "common_name": "",
+        "quality": "B",
+        "length": "0:16",
+        "recordist": "K.-G. Heller",
+        "country": "Slovenia",
+        "date": "1981-09-04",
+        "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "xc_url": "https://xeno-canto.org/867888"
+      },
+      {
+        "xc_id": "867887",
+        "scientific_name": "Pholidoptera aptera",
+        "common_name": "",
+        "quality": "B",
+        "length": "0:10",
+        "recordist": "K.-G. Heller",
+        "country": "Slovenia",
+        "date": "1981-09-04",
+        "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "xc_url": "https://xeno-canto.org/867887"
+      },
+      {
+        "xc_id": "867886",
+        "scientific_name": "Pholidoptera aptera",
+        "common_name": "",
+        "quality": "B",
+        "length": "0:15",
+        "recordist": "K.-G. Heller",
+        "country": "Slovenia",
+        "date": "1981-09-04",
+        "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "xc_url": "https://xeno-canto.org/867886"
+      },
+      {
+        "xc_id": "867885",
+        "scientific_name": "Pholidoptera aptera",
+        "common_name": "",
+        "quality": "B",
+        "length": "0:08",
+        "recordist": "K.-G. Heller",
+        "country": "Slovenia",
+        "date": "1981-08-28",
+        "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "xc_url": "https://xeno-canto.org/867885"
+      }
+    ],
+    "alarm call": [],
+    "flight call": []
+  },
+  "Pholidoptera griseoaptera": {
+    "song": [
+      {
+        "xc_id": "867972",
+        "scientific_name": "Pholidoptera griseoaptera",
+        "common_name": "Dark Bush-cricket",
+        "quality": "B",
+        "length": "0:50",
+        "recordist": "K.-G. Heller",
+        "country": "Slovenia",
+        "date": "1980-08-26",
+        "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "xc_url": "https://xeno-canto.org/867972"
+      },
+      {
+        "xc_id": "867970",
+        "scientific_name": "Pholidoptera griseoaptera",
+        "common_name": "Dark Bush-cricket",
+        "quality": "B",
+        "length": "0:33",
+        "recordist": "K.-G. Heller",
+        "country": "Slovenia",
+        "date": "1980-08-26",
+        "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "xc_url": "https://xeno-canto.org/867970"
+      },
+      {
+        "xc_id": "867969",
+        "scientific_name": "Pholidoptera griseoaptera",
+        "common_name": "Dark Bush-cricket",
+        "quality": "B",
+        "length": "0:16",
+        "recordist": "K.-G. Heller",
+        "country": "Slovenia",
+        "date": "1980-08-26",
+        "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "xc_url": "https://xeno-canto.org/867969"
+      }
+    ],
+    "call": [
+      {
+        "xc_id": "867972",
+        "scientific_name": "Pholidoptera griseoaptera",
+        "common_name": "Dark Bush-cricket",
+        "quality": "B",
+        "length": "0:50",
+        "recordist": "K.-G. Heller",
+        "country": "Slovenia",
+        "date": "1980-08-26",
+        "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "xc_url": "https://xeno-canto.org/867972"
+      },
+      {
+        "xc_id": "867970",
+        "scientific_name": "Pholidoptera griseoaptera",
+        "common_name": "Dark Bush-cricket",
+        "quality": "B",
+        "length": "0:33",
+        "recordist": "K.-G. Heller",
+        "country": "Slovenia",
+        "date": "1980-08-26",
+        "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "xc_url": "https://xeno-canto.org/867970"
+      },
+      {
+        "xc_id": "867969",
+        "scientific_name": "Pholidoptera griseoaptera",
+        "common_name": "Dark Bush-cricket",
+        "quality": "B",
+        "length": "0:16",
+        "recordist": "K.-G. Heller",
+        "country": "Slovenia",
+        "date": "1980-08-26",
+        "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "xc_url": "https://xeno-canto.org/867969"
+      }
+    ],
+    "alarm call": [],
+    "flight call": []
+  },
+  "Pholidoptera littoralis": {
+    "song": [
+      {
+        "xc_id": "867990",
+        "scientific_name": "Pholidoptera littoralis",
+        "common_name": "",
+        "quality": "B",
+        "length": "0:14",
+        "recordist": "K.-G. Heller",
+        "country": "Slovenia",
+        "date": "1981-08-25",
+        "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "xc_url": "https://xeno-canto.org/867990"
+      },
+      {
+        "xc_id": "867989",
+        "scientific_name": "Pholidoptera littoralis",
+        "common_name": "",
+        "quality": "B",
+        "length": "0:17",
+        "recordist": "K.-G. Heller",
+        "country": "Slovenia",
+        "date": "1981-08-25",
+        "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "xc_url": "https://xeno-canto.org/867989"
+      },
+      {
+        "xc_id": "867988",
+        "scientific_name": "Pholidoptera littoralis",
+        "common_name": "",
+        "quality": "B",
+        "length": "0:32",
+        "recordist": "K.-G. Heller",
+        "country": "Slovenia",
+        "date": "1981-08-25",
+        "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "xc_url": "https://xeno-canto.org/867988"
+      },
+      {
+        "xc_id": "867987",
+        "scientific_name": "Pholidoptera littoralis",
+        "common_name": "",
+        "quality": "B",
+        "length": "0:12",
+        "recordist": "K.-G. Heller",
+        "country": "Slovenia",
+        "date": "1981-08-25",
+        "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "xc_url": "https://xeno-canto.org/867987"
+      },
+      {
+        "xc_id": "867986",
+        "scientific_name": "Pholidoptera littoralis",
+        "common_name": "",
+        "quality": "B",
+        "length": "0:50",
+        "recordist": "K.-G. Heller",
+        "country": "Slovenia",
+        "date": "1981-08-25",
+        "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "xc_url": "https://xeno-canto.org/867986"
+      }
+    ],
+    "call": [
+      {
+        "xc_id": "867990",
+        "scientific_name": "Pholidoptera littoralis",
+        "common_name": "",
+        "quality": "B",
+        "length": "0:14",
+        "recordist": "K.-G. Heller",
+        "country": "Slovenia",
+        "date": "1981-08-25",
+        "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "xc_url": "https://xeno-canto.org/867990"
+      },
+      {
+        "xc_id": "867989",
+        "scientific_name": "Pholidoptera littoralis",
+        "common_name": "",
+        "quality": "B",
+        "length": "0:17",
+        "recordist": "K.-G. Heller",
+        "country": "Slovenia",
+        "date": "1981-08-25",
+        "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "xc_url": "https://xeno-canto.org/867989"
+      },
+      {
+        "xc_id": "867988",
+        "scientific_name": "Pholidoptera littoralis",
+        "common_name": "",
+        "quality": "B",
+        "length": "0:32",
+        "recordist": "K.-G. Heller",
+        "country": "Slovenia",
+        "date": "1981-08-25",
+        "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "xc_url": "https://xeno-canto.org/867988"
+      },
+      {
+        "xc_id": "867987",
+        "scientific_name": "Pholidoptera littoralis",
+        "common_name": "",
+        "quality": "B",
+        "length": "0:12",
+        "recordist": "K.-G. Heller",
+        "country": "Slovenia",
+        "date": "1981-08-25",
+        "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "xc_url": "https://xeno-canto.org/867987"
+      },
+      {
+        "xc_id": "867986",
+        "scientific_name": "Pholidoptera littoralis",
+        "common_name": "",
+        "quality": "B",
+        "length": "0:50",
+        "recordist": "K.-G. Heller",
+        "country": "Slovenia",
+        "date": "1981-08-25",
+        "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "xc_url": "https://xeno-canto.org/867986"
+      }
+    ],
+    "alarm call": [],
+    "flight call": []
+  },
+  "Platycleis romana": {
+    "song": [
+      {
+        "xc_id": "868207",
+        "scientific_name": "Platycleis romana",
+        "common_name": "Italian Grey Bush-cricket",
+        "quality": "B",
+        "length": "0:24",
+        "recordist": "K.-G. Heller",
+        "country": "Slovenia",
+        "date": "1979-07-20",
+        "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "xc_url": "https://xeno-canto.org/868207"
+      },
+      {
+        "xc_id": "868206",
+        "scientific_name": "Platycleis romana",
+        "common_name": "Italian Grey Bush-cricket",
+        "quality": "B",
+        "length": "0:13",
+        "recordist": "K.-G. Heller",
+        "country": "Slovenia",
+        "date": "1979-07-20",
+        "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "xc_url": "https://xeno-canto.org/868206"
+      },
+      {
+        "xc_id": "868205",
+        "scientific_name": "Platycleis romana",
+        "common_name": "Italian Grey Bush-cricket",
+        "quality": "B",
+        "length": "0:10",
+        "recordist": "K.-G. Heller",
+        "country": "Slovenia",
+        "date": "1979-07-20",
+        "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "xc_url": "https://xeno-canto.org/868205"
+      },
+      {
+        "xc_id": "868204",
+        "scientific_name": "Platycleis romana",
+        "common_name": "Italian Grey Bush-cricket",
+        "quality": "B",
+        "length": "0:18",
+        "recordist": "K.-G. Heller",
+        "country": "Slovenia",
+        "date": "1979-07-20",
+        "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "xc_url": "https://xeno-canto.org/868204"
+      }
+    ],
+    "call": [
+      {
+        "xc_id": "868207",
+        "scientific_name": "Platycleis romana",
+        "common_name": "Italian Grey Bush-cricket",
+        "quality": "B",
+        "length": "0:24",
+        "recordist": "K.-G. Heller",
+        "country": "Slovenia",
+        "date": "1979-07-20",
+        "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "xc_url": "https://xeno-canto.org/868207"
+      },
+      {
+        "xc_id": "868206",
+        "scientific_name": "Platycleis romana",
+        "common_name": "Italian Grey Bush-cricket",
+        "quality": "B",
+        "length": "0:13",
+        "recordist": "K.-G. Heller",
+        "country": "Slovenia",
+        "date": "1979-07-20",
+        "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "xc_url": "https://xeno-canto.org/868206"
+      },
+      {
+        "xc_id": "868205",
+        "scientific_name": "Platycleis romana",
+        "common_name": "Italian Grey Bush-cricket",
+        "quality": "B",
+        "length": "0:10",
+        "recordist": "K.-G. Heller",
+        "country": "Slovenia",
+        "date": "1979-07-20",
+        "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "xc_url": "https://xeno-canto.org/868205"
+      },
+      {
+        "xc_id": "868204",
+        "scientific_name": "Platycleis romana",
+        "common_name": "Italian Grey Bush-cricket",
+        "quality": "B",
+        "length": "0:18",
+        "recordist": "K.-G. Heller",
+        "country": "Slovenia",
+        "date": "1979-07-20",
+        "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "xc_url": "https://xeno-canto.org/868204"
+      }
+    ],
+    "alarm call": [],
+    "flight call": []
+  },
+  "Poecilimon gracilis": {
+    "song": [
+      {
+        "xc_id": "868662",
+        "scientific_name": "Poecilimon gracilis",
+        "common_name": "Slender Bright Bush-cricket",
+        "quality": "B",
+        "length": "0:12",
+        "recordist": "K.-G. Heller",
+        "country": "Slovenia",
+        "date": "1980-08-14",
+        "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "xc_url": "https://xeno-canto.org/868662"
+      },
+      {
+        "xc_id": "868661",
+        "scientific_name": "Poecilimon gracilis",
+        "common_name": "Slender Bright Bush-cricket",
+        "quality": "B",
+        "length": "0:24",
+        "recordist": "K.-G. Heller",
+        "country": "Slovenia",
+        "date": "1980-08-14",
+        "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "xc_url": "https://xeno-canto.org/868661"
+      }
+    ],
+    "call": [
+      {
+        "xc_id": "868662",
+        "scientific_name": "Poecilimon gracilis",
+        "common_name": "Slender Bright Bush-cricket",
+        "quality": "B",
+        "length": "0:12",
+        "recordist": "K.-G. Heller",
+        "country": "Slovenia",
+        "date": "1980-08-14",
+        "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "xc_url": "https://xeno-canto.org/868662"
+      },
+      {
+        "xc_id": "868661",
+        "scientific_name": "Poecilimon gracilis",
+        "common_name": "Slender Bright Bush-cricket",
+        "quality": "B",
+        "length": "0:24",
+        "recordist": "K.-G. Heller",
+        "country": "Slovenia",
+        "date": "1980-08-14",
+        "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "xc_url": "https://xeno-canto.org/868661"
+      }
+    ],
+    "alarm call": [],
+    "flight call": []
+  },
+  "Poecilimon ornatus": {
+    "song": [
+      {
+        "xc_id": "869334",
+        "scientific_name": "Poecilimon ornatus",
+        "common_name": "Ornate Bright Bush-cricket",
+        "quality": "B",
+        "length": "0:55",
+        "recordist": "K.-G. Heller",
+        "country": "Slovenia",
+        "date": "1987-07-17",
+        "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "xc_url": "https://xeno-canto.org/869334"
+      },
+      {
+        "xc_id": "869333",
+        "scientific_name": "Poecilimon ornatus",
+        "common_name": "Ornate Bright Bush-cricket",
+        "quality": "B",
+        "length": "1:38",
+        "recordist": "K.-G. Heller",
+        "country": "Slovenia",
+        "date": "1987-07-17",
+        "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "xc_url": "https://xeno-canto.org/869333"
+      },
+      {
+        "xc_id": "869332",
+        "scientific_name": "Poecilimon ornatus",
+        "common_name": "Ornate Bright Bush-cricket",
+        "quality": "B",
+        "length": "0:19",
+        "recordist": "K.-G. Heller",
+        "country": "Slovenia",
+        "date": "1987-07-17",
+        "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "xc_url": "https://xeno-canto.org/869332"
+      },
+      {
+        "xc_id": "869331",
+        "scientific_name": "Poecilimon ornatus",
+        "common_name": "Ornate Bright Bush-cricket",
+        "quality": "B",
+        "length": "0:03",
+        "recordist": "K.-G. Heller",
+        "country": "Slovenia",
+        "date": "1987-07-17",
+        "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "xc_url": "https://xeno-canto.org/869331"
+      },
+      {
+        "xc_id": "869330",
+        "scientific_name": "Poecilimon ornatus",
+        "common_name": "Ornate Bright Bush-cricket",
+        "quality": "B",
+        "length": "1:23",
+        "recordist": "K.-G. Heller",
+        "country": "Slovenia",
+        "date": "1987-07-17",
+        "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "xc_url": "https://xeno-canto.org/869330"
+      }
+    ],
+    "call": [
+      {
+        "xc_id": "869334",
+        "scientific_name": "Poecilimon ornatus",
+        "common_name": "Ornate Bright Bush-cricket",
+        "quality": "B",
+        "length": "0:55",
+        "recordist": "K.-G. Heller",
+        "country": "Slovenia",
+        "date": "1987-07-17",
+        "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "xc_url": "https://xeno-canto.org/869334"
+      },
+      {
+        "xc_id": "869333",
+        "scientific_name": "Poecilimon ornatus",
+        "common_name": "Ornate Bright Bush-cricket",
+        "quality": "B",
+        "length": "1:38",
+        "recordist": "K.-G. Heller",
+        "country": "Slovenia",
+        "date": "1987-07-17",
+        "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "xc_url": "https://xeno-canto.org/869333"
+      },
+      {
+        "xc_id": "869332",
+        "scientific_name": "Poecilimon ornatus",
+        "common_name": "Ornate Bright Bush-cricket",
+        "quality": "B",
+        "length": "0:19",
+        "recordist": "K.-G. Heller",
+        "country": "Slovenia",
+        "date": "1987-07-17",
+        "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "xc_url": "https://xeno-canto.org/869332"
+      },
+      {
+        "xc_id": "869331",
+        "scientific_name": "Poecilimon ornatus",
+        "common_name": "Ornate Bright Bush-cricket",
+        "quality": "B",
+        "length": "0:03",
+        "recordist": "K.-G. Heller",
+        "country": "Slovenia",
+        "date": "1987-07-17",
+        "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "xc_url": "https://xeno-canto.org/869331"
+      },
+      {
+        "xc_id": "869330",
+        "scientific_name": "Poecilimon ornatus",
+        "common_name": "Ornate Bright Bush-cricket",
+        "quality": "B",
+        "length": "1:23",
+        "recordist": "K.-G. Heller",
+        "country": "Slovenia",
+        "date": "1987-07-17",
+        "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "xc_url": "https://xeno-canto.org/869330"
+      }
+    ],
+    "alarm call": [],
+    "flight call": []
+  },
+  "Pteronemobius heydenii": {
+    "song": [
+      {
+        "xc_id": "751860",
+        "scientific_name": "Pteronemobius heydenii",
+        "common_name": "",
+        "quality": "C",
+        "length": "11:56",
+        "recordist": "Baudewijn Odé",
+        "country": "Slovenia",
+        "date": "1995-06-21",
+        "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "xc_url": "https://xeno-canto.org/751860"
+      },
+      {
+        "xc_id": "751859",
+        "scientific_name": "Pteronemobius heydenii",
+        "common_name": "",
+        "quality": "C",
+        "length": "6:44",
+        "recordist": "Baudewijn Odé",
+        "country": "Slovenia",
+        "date": "1995-06-20",
+        "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "xc_url": "https://xeno-canto.org/751859"
+      },
+      {
+        "xc_id": "751858",
+        "scientific_name": "Pteronemobius heydenii",
+        "common_name": "",
+        "quality": "C",
+        "length": "11:29",
+        "recordist": "Baudewijn Odé",
+        "country": "Slovenia",
+        "date": "1995-06-20",
+        "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "xc_url": "https://xeno-canto.org/751858"
+      },
+      {
+        "xc_id": "751857",
+        "scientific_name": "Pteronemobius heydenii",
+        "common_name": "",
+        "quality": "C",
+        "length": "3:08",
+        "recordist": "Baudewijn Odé",
+        "country": "Slovenia",
+        "date": "1995-06-20",
+        "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "xc_url": "https://xeno-canto.org/751857"
+      },
+      {
+        "xc_id": "751856",
+        "scientific_name": "Pteronemobius heydenii",
+        "common_name": "",
+        "quality": "C",
+        "length": "9:39",
+        "recordist": "Baudewijn Odé",
+        "country": "Slovenia",
+        "date": "1995-06-20",
+        "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "xc_url": "https://xeno-canto.org/751856"
+      }
+    ],
+    "call": [
+      {
+        "xc_id": "751860",
+        "scientific_name": "Pteronemobius heydenii",
+        "common_name": "",
+        "quality": "C",
+        "length": "11:56",
+        "recordist": "Baudewijn Odé",
+        "country": "Slovenia",
+        "date": "1995-06-21",
+        "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "xc_url": "https://xeno-canto.org/751860"
+      },
+      {
+        "xc_id": "751859",
+        "scientific_name": "Pteronemobius heydenii",
+        "common_name": "",
+        "quality": "C",
+        "length": "6:44",
+        "recordist": "Baudewijn Odé",
+        "country": "Slovenia",
+        "date": "1995-06-20",
+        "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "xc_url": "https://xeno-canto.org/751859"
+      },
+      {
+        "xc_id": "751858",
+        "scientific_name": "Pteronemobius heydenii",
+        "common_name": "",
+        "quality": "C",
+        "length": "11:29",
+        "recordist": "Baudewijn Odé",
+        "country": "Slovenia",
+        "date": "1995-06-20",
+        "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "xc_url": "https://xeno-canto.org/751858"
+      },
+      {
+        "xc_id": "751857",
+        "scientific_name": "Pteronemobius heydenii",
+        "common_name": "",
+        "quality": "C",
+        "length": "3:08",
+        "recordist": "Baudewijn Odé",
+        "country": "Slovenia",
+        "date": "1995-06-20",
+        "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "xc_url": "https://xeno-canto.org/751857"
+      },
+      {
+        "xc_id": "751856",
+        "scientific_name": "Pteronemobius heydenii",
+        "common_name": "",
+        "quality": "C",
+        "length": "9:39",
+        "recordist": "Baudewijn Odé",
+        "country": "Slovenia",
+        "date": "1995-06-20",
+        "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "xc_url": "https://xeno-canto.org/751856"
+      }
+    ],
+    "alarm call": [],
+    "flight call": []
+  },
+  "Roeseliana roeselii": {
+    "song": [
+      {
+        "xc_id": "867512",
+        "scientific_name": "Roeseliana roeselii",
+        "common_name": "",
+        "quality": "B",
+        "length": "0:21",
+        "recordist": "K.-G. Heller",
+        "country": "Slovenia",
+        "date": "1979-07-21",
+        "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "xc_url": "https://xeno-canto.org/867512"
+      },
+      {
+        "xc_id": "867511",
+        "scientific_name": "Roeseliana roeselii",
+        "common_name": "",
+        "quality": "B",
+        "length": "0:15",
+        "recordist": "K.-G. Heller",
+        "country": "Slovenia",
+        "date": "1979-07-21",
+        "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "xc_url": "https://xeno-canto.org/867511"
+      }
+    ],
+    "call": [
+      {
+        "xc_id": "867512",
+        "scientific_name": "Roeseliana roeselii",
+        "common_name": "",
+        "quality": "B",
+        "length": "0:21",
+        "recordist": "K.-G. Heller",
+        "country": "Slovenia",
+        "date": "1979-07-21",
+        "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "xc_url": "https://xeno-canto.org/867512"
+      },
+      {
+        "xc_id": "867511",
+        "scientific_name": "Roeseliana roeselii",
+        "common_name": "",
+        "quality": "B",
+        "length": "0:15",
+        "recordist": "K.-G. Heller",
+        "country": "Slovenia",
+        "date": "1979-07-21",
+        "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "xc_url": "https://xeno-canto.org/867511"
+      }
+    ],
+    "alarm call": [],
+    "flight call": []
+  },
+  "Sepiana sepium": {
+    "song": [
+      {
+        "xc_id": "870189",
+        "scientific_name": "Sepiana sepium",
+        "common_name": "Sepia Bush-cricket",
+        "quality": "B",
+        "length": "0:15",
+        "recordist": "K.-G. Heller",
+        "country": "Slovenia",
+        "date": "1980-10-03",
+        "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "xc_url": "https://xeno-canto.org/870189"
+      },
+      {
+        "xc_id": "870188",
+        "scientific_name": "Sepiana sepium",
+        "common_name": "Sepia Bush-cricket",
+        "quality": "B",
+        "length": "0:09",
+        "recordist": "K.-G. Heller",
+        "country": "Slovenia",
+        "date": "1980-10-03",
+        "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "xc_url": "https://xeno-canto.org/870188"
+      },
+      {
+        "xc_id": "870187",
+        "scientific_name": "Sepiana sepium",
+        "common_name": "Sepia Bush-cricket",
+        "quality": "B",
+        "length": "0:11",
+        "recordist": "K.-G. Heller",
+        "country": "Slovenia",
+        "date": "1980-10-03",
+        "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "xc_url": "https://xeno-canto.org/870187"
+      },
+      {
+        "xc_id": "870186",
+        "scientific_name": "Sepiana sepium",
+        "common_name": "Sepia Bush-cricket",
+        "quality": "B",
+        "length": "0:10",
+        "recordist": "K.-G. Heller",
+        "country": "Slovenia",
+        "date": "1980-10-03",
+        "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "xc_url": "https://xeno-canto.org/870186"
+      },
+      {
+        "xc_id": "870185",
+        "scientific_name": "Sepiana sepium",
+        "common_name": "Sepia Bush-cricket",
+        "quality": "B",
+        "length": "0:12",
+        "recordist": "K.-G. Heller",
+        "country": "Slovenia",
+        "date": "1980-10-03",
+        "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "xc_url": "https://xeno-canto.org/870185"
+      }
+    ],
+    "call": [
+      {
+        "xc_id": "870189",
+        "scientific_name": "Sepiana sepium",
+        "common_name": "Sepia Bush-cricket",
+        "quality": "B",
+        "length": "0:15",
+        "recordist": "K.-G. Heller",
+        "country": "Slovenia",
+        "date": "1980-10-03",
+        "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "xc_url": "https://xeno-canto.org/870189"
+      },
+      {
+        "xc_id": "870188",
+        "scientific_name": "Sepiana sepium",
+        "common_name": "Sepia Bush-cricket",
+        "quality": "B",
+        "length": "0:09",
+        "recordist": "K.-G. Heller",
+        "country": "Slovenia",
+        "date": "1980-10-03",
+        "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "xc_url": "https://xeno-canto.org/870188"
+      },
+      {
+        "xc_id": "870187",
+        "scientific_name": "Sepiana sepium",
+        "common_name": "Sepia Bush-cricket",
+        "quality": "B",
+        "length": "0:11",
+        "recordist": "K.-G. Heller",
+        "country": "Slovenia",
+        "date": "1980-10-03",
+        "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "xc_url": "https://xeno-canto.org/870187"
+      },
+      {
+        "xc_id": "870186",
+        "scientific_name": "Sepiana sepium",
+        "common_name": "Sepia Bush-cricket",
+        "quality": "B",
+        "length": "0:10",
+        "recordist": "K.-G. Heller",
+        "country": "Slovenia",
+        "date": "1980-10-03",
+        "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "xc_url": "https://xeno-canto.org/870186"
+      },
+      {
+        "xc_id": "870185",
+        "scientific_name": "Sepiana sepium",
+        "common_name": "Sepia Bush-cricket",
+        "quality": "B",
+        "length": "0:12",
+        "recordist": "K.-G. Heller",
+        "country": "Slovenia",
+        "date": "1980-10-03",
+        "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "xc_url": "https://xeno-canto.org/870185"
+      }
+    ],
+    "alarm call": [],
+    "flight call": []
+  },
+  "Chorthippus mollis": {
+    "song": [
+      {
+        "xc_id": "752523",
+        "scientific_name": "Chorthippus mollis",
+        "common_name": "",
+        "quality": "C",
+        "length": "3:45",
+        "recordist": "Baudewijn Odé",
+        "country": "Slovenia",
+        "date": "0000-00-00",
+        "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "xc_url": "https://xeno-canto.org/752523"
+      }
+    ],
+    "call": [
+      {
+        "xc_id": "752523",
+        "scientific_name": "Chorthippus mollis",
+        "common_name": "",
+        "quality": "C",
+        "length": "3:45",
+        "recordist": "Baudewijn Odé",
+        "country": "Slovenia",
+        "date": "0000-00-00",
+        "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "xc_url": "https://xeno-canto.org/752523"
+      }
+    ],
+    "alarm call": [],
+    "flight call": []
+  },
+  "Isophya modestior": {
+    "song": [
+      {
+        "xc_id": "867175",
+        "scientific_name": "Isophya modestior",
+        "common_name": "More-modest Plump Bush-cricket",
+        "quality": "B",
+        "length": "0:13",
+        "recordist": "K.-G. Heller",
+        "country": "Slovenia",
+        "date": "1989-05-15",
+        "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "xc_url": "https://xeno-canto.org/867175"
+      },
+      {
+        "xc_id": "867174",
+        "scientific_name": "Isophya modestior",
+        "common_name": "More-modest Plump Bush-cricket",
+        "quality": "B",
+        "length": "0:25",
+        "recordist": "K.-G. Heller",
+        "country": "Slovenia",
+        "date": "1989-05-15",
+        "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "xc_url": "https://xeno-canto.org/867174"
+      },
+      {
+        "xc_id": "867173",
+        "scientific_name": "Isophya modestior",
+        "common_name": "More-modest Plump Bush-cricket",
+        "quality": "B",
+        "length": "0:08",
+        "recordist": "K.-G. Heller",
+        "country": "Slovenia",
+        "date": "1989-05-15",
+        "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "xc_url": "https://xeno-canto.org/867173"
+      },
+      {
+        "xc_id": "867172",
+        "scientific_name": "Isophya modestior",
+        "common_name": "More-modest Plump Bush-cricket",
+        "quality": "B",
+        "length": "0:08",
+        "recordist": "K.-G. Heller",
+        "country": "Slovenia",
+        "date": "1989-05-15",
+        "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "xc_url": "https://xeno-canto.org/867172"
+      },
+      {
+        "xc_id": "867171",
+        "scientific_name": "Isophya modestior",
+        "common_name": "More-modest Plump Bush-cricket",
+        "quality": "B",
+        "length": "0:07",
+        "recordist": "K.-G. Heller",
+        "country": "Slovenia",
+        "date": "1989-05-15",
+        "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "xc_url": "https://xeno-canto.org/867171"
+      }
+    ],
+    "call": [
+      {
+        "xc_id": "867175",
+        "scientific_name": "Isophya modestior",
+        "common_name": "More-modest Plump Bush-cricket",
+        "quality": "B",
+        "length": "0:13",
+        "recordist": "K.-G. Heller",
+        "country": "Slovenia",
+        "date": "1989-05-15",
+        "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "xc_url": "https://xeno-canto.org/867175"
+      },
+      {
+        "xc_id": "867174",
+        "scientific_name": "Isophya modestior",
+        "common_name": "More-modest Plump Bush-cricket",
+        "quality": "B",
+        "length": "0:25",
+        "recordist": "K.-G. Heller",
+        "country": "Slovenia",
+        "date": "1989-05-15",
+        "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "xc_url": "https://xeno-canto.org/867174"
+      },
+      {
+        "xc_id": "867173",
+        "scientific_name": "Isophya modestior",
+        "common_name": "More-modest Plump Bush-cricket",
+        "quality": "B",
+        "length": "0:08",
+        "recordist": "K.-G. Heller",
+        "country": "Slovenia",
+        "date": "1989-05-15",
+        "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "xc_url": "https://xeno-canto.org/867173"
+      },
+      {
+        "xc_id": "867172",
+        "scientific_name": "Isophya modestior",
+        "common_name": "More-modest Plump Bush-cricket",
+        "quality": "B",
+        "length": "0:08",
+        "recordist": "K.-G. Heller",
+        "country": "Slovenia",
+        "date": "1989-05-15",
+        "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "xc_url": "https://xeno-canto.org/867172"
+      },
+      {
+        "xc_id": "867171",
+        "scientific_name": "Isophya modestior",
+        "common_name": "More-modest Plump Bush-cricket",
+        "quality": "B",
+        "length": "0:07",
+        "recordist": "K.-G. Heller",
+        "country": "Slovenia",
+        "date": "1989-05-15",
+        "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "xc_url": "https://xeno-canto.org/867171"
+      }
+    ],
+    "alarm call": [],
+    "flight call": []
+  },
+  "Leptophyes boscii": {
+    "song": [
+      {
+        "xc_id": "867330",
+        "scientific_name": "Leptophyes boscii",
+        "common_name": "",
+        "quality": "B",
+        "length": "0:18",
+        "recordist": "K.-G. Heller",
+        "country": "Slovenia",
+        "date": "1981-09-16",
+        "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "xc_url": "https://xeno-canto.org/867330"
+      },
+      {
+        "xc_id": "867329",
+        "scientific_name": "Leptophyes boscii",
+        "common_name": "",
+        "quality": "B",
+        "length": "0:04",
+        "recordist": "K.-G. Heller",
+        "country": "Slovenia",
+        "date": "1981-09-04",
+        "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "xc_url": "https://xeno-canto.org/867329"
+      },
+      {
+        "xc_id": "867328",
+        "scientific_name": "Leptophyes boscii",
+        "common_name": "",
+        "quality": "B",
+        "length": "0:05",
+        "recordist": "K.-G. Heller",
+        "country": "Slovenia",
+        "date": "1981-09-04",
+        "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "xc_url": "https://xeno-canto.org/867328"
+      },
+      {
+        "xc_id": "867327",
+        "scientific_name": "Leptophyes boscii",
+        "common_name": "",
+        "quality": "B",
+        "length": "0:03",
+        "recordist": "K.-G. Heller",
+        "country": "Slovenia",
+        "date": "1981-08-24",
+        "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "xc_url": "https://xeno-canto.org/867327"
+      },
+      {
+        "xc_id": "867326",
+        "scientific_name": "Leptophyes boscii",
+        "common_name": "",
+        "quality": "B",
+        "length": "0:03",
+        "recordist": "K.-G. Heller",
+        "country": "Slovenia",
+        "date": "1981-08-24",
+        "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "xc_url": "https://xeno-canto.org/867326"
+      }
+    ],
+    "call": [
+      {
+        "xc_id": "867330",
+        "scientific_name": "Leptophyes boscii",
+        "common_name": "",
+        "quality": "B",
+        "length": "0:18",
+        "recordist": "K.-G. Heller",
+        "country": "Slovenia",
+        "date": "1981-09-16",
+        "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "xc_url": "https://xeno-canto.org/867330"
+      },
+      {
+        "xc_id": "867329",
+        "scientific_name": "Leptophyes boscii",
+        "common_name": "",
+        "quality": "B",
+        "length": "0:04",
+        "recordist": "K.-G. Heller",
+        "country": "Slovenia",
+        "date": "1981-09-04",
+        "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "xc_url": "https://xeno-canto.org/867329"
+      },
+      {
+        "xc_id": "867328",
+        "scientific_name": "Leptophyes boscii",
+        "common_name": "",
+        "quality": "B",
+        "length": "0:05",
+        "recordist": "K.-G. Heller",
+        "country": "Slovenia",
+        "date": "1981-09-04",
+        "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "xc_url": "https://xeno-canto.org/867328"
+      },
+      {
+        "xc_id": "867327",
+        "scientific_name": "Leptophyes boscii",
+        "common_name": "",
+        "quality": "B",
+        "length": "0:03",
+        "recordist": "K.-G. Heller",
+        "country": "Slovenia",
+        "date": "1981-08-24",
+        "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "xc_url": "https://xeno-canto.org/867327"
+      },
+      {
+        "xc_id": "867326",
+        "scientific_name": "Leptophyes boscii",
+        "common_name": "",
+        "quality": "B",
+        "length": "0:03",
+        "recordist": "K.-G. Heller",
+        "country": "Slovenia",
+        "date": "1981-08-24",
+        "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "xc_url": "https://xeno-canto.org/867326"
+      }
+    ],
+    "alarm call": [],
+    "flight call": []
+  },
+  "Poecilimon ampliatus": {
+    "song": [
+      {
+        "xc_id": "868421",
+        "scientific_name": "Poecilimon ampliatus",
+        "common_name": "Enlarged Bright Bush-cricket",
+        "quality": "B",
+        "length": "0:08",
+        "recordist": "K.-G. Heller",
+        "country": "Slovenia",
+        "date": "1983-06-15",
+        "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "xc_url": "https://xeno-canto.org/868421"
+      },
+      {
+        "xc_id": "868420",
+        "scientific_name": "Poecilimon ampliatus",
+        "common_name": "Enlarged Bright Bush-cricket",
+        "quality": "B",
+        "length": "0:15",
+        "recordist": "K.-G. Heller",
+        "country": "Slovenia",
+        "date": "1983-06-15",
+        "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "xc_url": "https://xeno-canto.org/868420"
+      },
+      {
+        "xc_id": "868419",
+        "scientific_name": "Poecilimon ampliatus",
+        "common_name": "Enlarged Bright Bush-cricket",
+        "quality": "B",
+        "length": "0:05",
+        "recordist": "K.-G. Heller",
+        "country": "Slovenia",
+        "date": "1983-06-15",
+        "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "xc_url": "https://xeno-canto.org/868419"
+      },
+      {
+        "xc_id": "868418",
+        "scientific_name": "Poecilimon ampliatus",
+        "common_name": "Enlarged Bright Bush-cricket",
+        "quality": "B",
+        "length": "0:04",
+        "recordist": "K.-G. Heller",
+        "country": "Slovenia",
+        "date": "1983-06-15",
+        "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "xc_url": "https://xeno-canto.org/868418"
+      },
+      {
+        "xc_id": "868417",
+        "scientific_name": "Poecilimon ampliatus",
+        "common_name": "Enlarged Bright Bush-cricket",
+        "quality": "B",
+        "length": "0:07",
+        "recordist": "K.-G. Heller",
+        "country": "Slovenia",
+        "date": "1983-06-15",
+        "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "xc_url": "https://xeno-canto.org/868417"
+      }
+    ],
+    "call": [
+      {
+        "xc_id": "868421",
+        "scientific_name": "Poecilimon ampliatus",
+        "common_name": "Enlarged Bright Bush-cricket",
+        "quality": "B",
+        "length": "0:08",
+        "recordist": "K.-G. Heller",
+        "country": "Slovenia",
+        "date": "1983-06-15",
+        "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "xc_url": "https://xeno-canto.org/868421"
+      },
+      {
+        "xc_id": "868420",
+        "scientific_name": "Poecilimon ampliatus",
+        "common_name": "Enlarged Bright Bush-cricket",
+        "quality": "B",
+        "length": "0:15",
+        "recordist": "K.-G. Heller",
+        "country": "Slovenia",
+        "date": "1983-06-15",
+        "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "xc_url": "https://xeno-canto.org/868420"
+      },
+      {
+        "xc_id": "868419",
+        "scientific_name": "Poecilimon ampliatus",
+        "common_name": "Enlarged Bright Bush-cricket",
+        "quality": "B",
+        "length": "0:05",
+        "recordist": "K.-G. Heller",
+        "country": "Slovenia",
+        "date": "1983-06-15",
+        "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "xc_url": "https://xeno-canto.org/868419"
+      },
+      {
+        "xc_id": "868418",
+        "scientific_name": "Poecilimon ampliatus",
+        "common_name": "Enlarged Bright Bush-cricket",
+        "quality": "B",
+        "length": "0:04",
+        "recordist": "K.-G. Heller",
+        "country": "Slovenia",
+        "date": "1983-06-15",
+        "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "xc_url": "https://xeno-canto.org/868418"
+      },
+      {
+        "xc_id": "868417",
+        "scientific_name": "Poecilimon ampliatus",
+        "common_name": "Enlarged Bright Bush-cricket",
+        "quality": "B",
+        "length": "0:07",
+        "recordist": "K.-G. Heller",
+        "country": "Slovenia",
+        "date": "1983-06-15",
+        "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "xc_url": "https://xeno-canto.org/868417"
+      }
+    ],
+    "alarm call": [],
+    "flight call": []
+  },
+  "Antaxius difformis": {
+    "song": [
+      {
+        "xc_id": "786812",
+        "scientific_name": "Antaxius difformis",
+        "common_name": "Eastern Mountain Bush-cricket",
+        "quality": "A",
+        "length": "0:28",
+        "recordist": "Baudewijn Odé",
+        "country": "Slovenia",
+        "date": "2015-08-21",
+        "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "xc_url": "https://xeno-canto.org/786812"
+      },
+      {
+        "xc_id": "853834",
+        "scientific_name": "Antaxius difformis",
+        "common_name": "Eastern Mountain Bush-cricket",
+        "quality": "B",
+        "length": "2:03",
+        "recordist": "Baudewijn Odé",
+        "country": "Slovenia",
+        "date": "2015-08-22",
+        "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "xc_url": "https://xeno-canto.org/853834"
+      },
+      {
+        "xc_id": "853833",
+        "scientific_name": "Antaxius difformis",
+        "common_name": "Eastern Mountain Bush-cricket",
+        "quality": "B",
+        "length": "6:07",
+        "recordist": "Baudewijn Odé",
+        "country": "Slovenia",
+        "date": "2015-08-22",
+        "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "xc_url": "https://xeno-canto.org/853833"
+      },
+      {
+        "xc_id": "853832",
+        "scientific_name": "Antaxius difformis",
+        "common_name": "Eastern Mountain Bush-cricket",
+        "quality": "B",
+        "length": "0:04",
+        "recordist": "Baudewijn Odé",
+        "country": "Slovenia",
+        "date": "2015-08-22",
+        "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "xc_url": "https://xeno-canto.org/853832"
+      },
+      {
+        "xc_id": "853831",
+        "scientific_name": "Antaxius difformis",
+        "common_name": "Eastern Mountain Bush-cricket",
+        "quality": "B",
+        "length": "0:46",
+        "recordist": "Baudewijn Odé",
+        "country": "Slovenia",
+        "date": "2015-08-21",
+        "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "xc_url": "https://xeno-canto.org/853831"
+      }
+    ],
+    "call": [
+      {
+        "xc_id": "786812",
+        "scientific_name": "Antaxius difformis",
+        "common_name": "Eastern Mountain Bush-cricket",
+        "quality": "A",
+        "length": "0:28",
+        "recordist": "Baudewijn Odé",
+        "country": "Slovenia",
+        "date": "2015-08-21",
+        "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "xc_url": "https://xeno-canto.org/786812"
+      },
+      {
+        "xc_id": "853834",
+        "scientific_name": "Antaxius difformis",
+        "common_name": "Eastern Mountain Bush-cricket",
+        "quality": "B",
+        "length": "2:03",
+        "recordist": "Baudewijn Odé",
+        "country": "Slovenia",
+        "date": "2015-08-22",
+        "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "xc_url": "https://xeno-canto.org/853834"
+      },
+      {
+        "xc_id": "853833",
+        "scientific_name": "Antaxius difformis",
+        "common_name": "Eastern Mountain Bush-cricket",
+        "quality": "B",
+        "length": "6:07",
+        "recordist": "Baudewijn Odé",
+        "country": "Slovenia",
+        "date": "2015-08-22",
+        "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "xc_url": "https://xeno-canto.org/853833"
+      },
+      {
+        "xc_id": "853832",
+        "scientific_name": "Antaxius difformis",
+        "common_name": "Eastern Mountain Bush-cricket",
+        "quality": "B",
+        "length": "0:04",
+        "recordist": "Baudewijn Odé",
+        "country": "Slovenia",
+        "date": "2015-08-22",
+        "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "xc_url": "https://xeno-canto.org/853832"
+      },
+      {
+        "xc_id": "853831",
+        "scientific_name": "Antaxius difformis",
+        "common_name": "Eastern Mountain Bush-cricket",
+        "quality": "B",
+        "length": "0:46",
+        "recordist": "Baudewijn Odé",
+        "country": "Slovenia",
+        "date": "2015-08-21",
+        "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "xc_url": "https://xeno-canto.org/853831"
+      }
+    ],
+    "alarm call": [],
+    "flight call": []
+  },
+  "Bombina variegata": {
+    "song": [],
+    "call": [],
+    "alarm call": [],
+    "flight call": []
+  },
+  "Pelophylax lessonae": {
+    "song": [],
+    "call": [],
+    "alarm call": [],
+    "flight call": []
+  },
+  "Sonus naturalis": {
+    "song": [],
+    "call": [],
+    "alarm call": [],
+    "flight call": []
+  },
+  "Mystery mystery": {
+    "song": [
+      {
+        "xc_id": "1012177",
+        "scientific_name": "Mystery mystery",
+        "common_name": "Identity unknown",
+        "quality": "B",
+        "length": "0:32",
+        "recordist": "Dare Šere",
+        "country": "Slovenia",
+        "date": "2025-07-06",
+        "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+        "xc_url": "https://xeno-canto.org/1012177"
+      }
+    ],
+    "call": [
+      {
+        "xc_id": "1051879",
+        "scientific_name": "Mystery mystery",
+        "common_name": "Identity unknown",
+        "quality": "C",
+        "length": "0:38",
+        "recordist": "Dare Šere",
+        "country": "Slovenia",
+        "date": "2025-11-01",
+        "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+        "xc_url": "https://xeno-canto.org/1051879"
+      },
+      {
+        "xc_id": "900702",
+        "scientific_name": "Mystery mystery",
+        "common_name": "Identity unknown",
+        "quality": "D",
+        "length": "0:30",
+        "recordist": "Jona Fras",
+        "country": "Slovenia",
+        "date": "2024-04-22",
+        "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "xc_url": "https://xeno-canto.org/900702"
+      },
+      {
+        "xc_id": "900700",
+        "scientific_name": "Mystery mystery",
+        "common_name": "Identity unknown",
+        "quality": "D",
+        "length": "0:09",
+        "recordist": "Jona Fras",
+        "country": "Slovenia",
+        "date": "2024-04-22",
+        "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "xc_url": "https://xeno-canto.org/900700"
+      }
+    ],
+    "alarm call": [],
+    "flight call": []
+  }
+}
