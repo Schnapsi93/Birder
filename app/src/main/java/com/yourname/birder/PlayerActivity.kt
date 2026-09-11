@@ -36,6 +36,8 @@ class PlayerActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
     private var tts: TextToSpeech? = null
     private var ttsReady = false
 
+    private var ttsLanguage = "Slovenian"
+
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_player)
@@ -52,9 +54,11 @@ class PlayerActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
         handsFreeMode = prefs.getBoolean("hands_free_mode", false)
         val ttsVolumeInt = prefs.getInt("tts_volume", 10)      // 0–10
         ttsVolume = ttsVolumeInt / 10f                          // convert to 0.0–1.0
+        ttsLanguage = prefs.getString("tts_language", "Slovenian") ?: "Slovenian"
 
         currentIndex = intent.getIntExtra("START_INDEX", 0)
         songs = BirdRepository.loadShuffled(this)
+
 
         if (songs.isEmpty()) {
             Toast.makeText(this, "No songs loaded", Toast.LENGTH_SHORT).show()
@@ -173,7 +177,14 @@ class PlayerActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
                 }
             })
 
-            tts?.speak(song.commonName, TextToSpeech.QUEUE_FLUSH, params, utteranceId)
+            //tts?.speak(song.commonName, TextToSpeech.QUEUE_FLUSH, params, utteranceId)
+            val nameToSpeak = when (ttsLanguage) {
+                "Slovenian" -> song.slovenianName.ifEmpty { song.scientificName }
+                "English"   -> song.commonName
+                "Scientific" -> song.scientificName
+                else         -> song.slovenianName.ifEmpty { song.scientificName }
+            }
+            tts?.speak(nameToSpeak, TextToSpeech.QUEUE_FLUSH, params, utteranceId)
         } else {
             advanceToNext()
         }
@@ -223,6 +234,7 @@ class PlayerActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
             btnPlayPause.text = "▶  Play"
             handler.removeCallbacks(updateSeekBar)
             durationHandler.removeCallbacksAndMessages(null)
+
         } else {
             mp.start()
             btnPlayPause.text = "Pause"
@@ -241,6 +253,8 @@ class PlayerActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
     }
 
     private fun updateLabels(song: BirdSong) {
+        findViewById<TextView>(R.id.tvSlovenianName).text =
+            song.slovenianName.ifEmpty { song.scientificName }   // fallback if no Slovenian name
         findViewById<TextView>(R.id.tvCommonName).text = song.commonName
         findViewById<TextView>(R.id.tvScientificName).text = song.scientificName
         findViewById<TextView>(R.id.tvSoundType).text = song.soundType.uppercase()
@@ -266,6 +280,7 @@ class PlayerActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
 
     override fun onDestroy() {
         super.onDestroy()
+
         handler.removeCallbacks(updateSeekBar)
         durationHandler.removeCallbacksAndMessages(null)
         mediaPlayer?.release()

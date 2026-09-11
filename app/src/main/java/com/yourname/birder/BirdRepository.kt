@@ -82,6 +82,8 @@ object BirdRepository {
                                 ?.takeIf { it.isNotEmpty() } ?: scientificName,
                             commonName = entry?.optString("common_name")
                                 ?.takeIf { it.isNotEmpty() } ?: scientificName,
+                            slovenianName = entry?.optString("slovenian_name")
+                                ?.takeIf { it.isNotEmpty() && it != "null" } ?: "",
                             soundType = soundType,
                             quality = entry?.optString("quality") ?: "-",
                             recordist = entry?.optString("recordist") ?: "-",

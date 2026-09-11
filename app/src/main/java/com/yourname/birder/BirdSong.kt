@@ -6,6 +6,7 @@ data class BirdSong(
     val file: File,
     val scientificName: String,
     val commonName: String,
+    val slovenianName: String,
     val soundType: String,       // "song", "call", etc.
     val quality: String,
     val recordist: String,
