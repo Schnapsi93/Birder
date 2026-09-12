@@ -54,13 +54,7 @@
         <!--android:alpha="0.5"-->
 
 
-    <!--<TextView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="Coming soon"
-        android:textSize="12sp"
-        android:textColor="@color/green_light"
-        android:paddingTop="6dp" /> -->
+
 
     <ProgressBar
         android:id="@+id/progressBar"
@@ -69,6 +63,10 @@
         android:indeterminateTint="@color/green_light"
         android:visibility="gone"
         android:layout_marginBottom="16dp" />
+
+
+
+
 
     <!-- Set Species button -->
     <Button
