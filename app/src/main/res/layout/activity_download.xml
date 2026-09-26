@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/green_dark"
+    android:padding="20dp">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="⬇️ Download Species"
+        android:textSize="24sp"
+        android:textColor="@color/cream"
+        android:textStyle="bold"
+        android:paddingTop="24dp"
+        android:paddingBottom="20dp" />
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <!-- Species input -->
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Species (scientific or common, one per line — leave empty for all)"
+                android:textSize="13sp"
+                android:textColor="@color/green_light"
+                android:paddingBottom="4dp" />
+
+            <EditText
+                android:id="@+id/etSpecies"
+                android:layout_width="match_parent"
+                android:layout_height="100dp"
+                android:gravity="top"
+                android:inputType="textMultiLine"
+                android:hint="e.g. Turdus merula"
+                android:textColorHint="@color/green_light"
+                android:textColor="@color/cream"
+                android:backgroundTint="@color/green_mid"
+                android:padding="8dp"
+                android:layout_marginBottom="16dp" />
+
+            <!-- Country -->
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Country"
+                android:textSize="13sp"
+                android:textColor="@color/green_light"
+                android:paddingBottom="4dp" />
+
+            <AutoCompleteTextView
+                android:id="@+id/spinnerCountry"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/cream"
+                android:backgroundTint="@color/green_mid"
+                android:padding="8dp"
+                android:layout_marginBottom="16dp" />
+
+            <!-- Continent -->
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Continent (optional)"
+                android:textSize="13sp"
+                android:textColor="@color/green_light"
+                android:paddingBottom="4dp" />
+
+            <Spinner
+                android:id="@+id/spinnerContinent"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:backgroundTint="@color/green_light"
+                android:layout_marginBottom="16dp" />
+
+            <!-- Quality filter -->
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Quality filter (A = best, E = worst)"
+                android:textSize="13sp"
+                android:textColor="@color/green_light"
+                android:paddingBottom="4dp" />
+
+            <LinearLayout
+                android:id="@+id/qualityGroup"
+                android:layout_marginStart="35dp"
+                android:layout_marginEnd="20dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:layout_marginBottom="16dp" />
+
+            <!-- Sound type filter -->
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Sound types to download"
+                android:textSize="13sp"
+                android:textColor="@color/green_light"
+                android:paddingBottom="4dp" />
+
+            <Button
+                android:id="@+id/btnSoundTypes"
+                android:layout_width="match_parent"
+                android:layout_height="48dp"
+                android:textSize="13sp"
+                android:textColor="@color/cream"
+                android:backgroundTint="@color/green_mid"
+                android:layout_marginBottom="16dp" />
+
+            <!-- Max per species -->
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Max recordings per species"
+                android:textSize="13sp"
+                android:textColor="@color/green_light"
+                android:paddingBottom="4dp" />
+
+            <Spinner
+                android:id="@+id/spinnerMaxPerSpecies"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:backgroundTint="@color/green_light"
+                android:layout_marginBottom="24dp" />
+
+            <Button
+                android:id="@+id/btnTestApi"
+                android:layout_width="match_parent"
+                android:layout_height="56dp"
+                android:text="🔌  Test API Connection"
+                android:textSize="16sp"
+                android:textColor="@color/cream"
+                android:backgroundTint="#555555"
+                android:layout_marginBottom="12dp" />
+
+            <!-- Buttons -->
+            <Button
+                android:id="@+id/btnStartDownload"
+                android:layout_width="match_parent"
+                android:layout_height="56dp"
+                android:text="⬇️  Start Download"
+                android:textSize="16sp"
+                android:textColor="@color/cream"
+                android:backgroundTint="@color/green_mid"
+                android:layout_marginBottom="12dp" />
+
+            <Button
+                android:id="@+id/btnPatchMetadata"
+                android:layout_width="match_parent"
+                android:layout_height="56dp"
+                android:text="🇸🇮  Patch Slovenian Names"
+                android:textSize="16sp"
+                android:textColor="@color/cream"
+                android:backgroundTint="@color/green_mid"
+                android:layout_marginBottom="16dp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Place slovenian_names.xlsx in Music/Birder/ before patching."
+                android:textSize="11sp"
+                android:textColor="@color/green_light"
+                android:paddingBottom="16dp" />
+
+            <!-- Progress -->
+            <ProgressBar
+                android:id="@+id/progressBar"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:indeterminateTint="@color/green_light"
+                android:visibility="gone"
+                android:layout_marginBottom="8dp" />
+
+            <!-- Log output -->
+            <ScrollView
+                android:id="@+id/scrollView"
+                android:layout_width="match_parent"
+                android:layout_height="200dp"
+                android:background="@color/green_mid"
+                android:padding="8dp">
+
+                <TextView
+                    android:id="@+id/tvLog"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:textSize="11sp"
+                    android:textColor="@color/cream"
+                    android:fontFamily="monospace" />
+
+            </ScrollView>
+
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

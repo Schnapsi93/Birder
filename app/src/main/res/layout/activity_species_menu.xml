@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:background="@color/green_dark"
+    android:padding="40dp">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="🐦 Species"
+        android:textSize="32sp"
+        android:textColor="@color/cream"
+        android:textStyle="bold"
+        android:paddingBottom="48dp" />
+
+    <Button
+        android:id="@+id/btnSetSpeciesToTrain"
+        android:layout_width="260dp"
+        android:layout_height="72dp"
+        android:text="✅  Set Species to Train"
+        android:textSize="17sp"
+        android:textColor="@color/cream"
+        android:backgroundTint="@color/green_mid"
+        android:layout_marginBottom="24dp" />
+
+    <Button
+        android:id="@+id/btnDownloadSpecies"
+        android:layout_width="260dp"
+        android:layout_height="72dp"
+        android:text="⬇️  Download New Species"
+        android:textSize="17sp"
+        android:textColor="@color/cream"
+        android:backgroundTint="@color/green_mid" />
+
+    <Button
+        android:id="@+id/btnRemoveSpecies"
+        android:layout_width="260dp"
+        android:layout_height="72dp"
+        android:text="🗑️  Remove Species"
+        android:textSize="17sp"
+        android:textColor="@color/cream"
+        android:backgroundTint="@color/green_mid"
+        android:layout_marginTop="24dp" />
+
+</LinearLayout>

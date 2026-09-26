@@ -1,10 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
-<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:orientation="vertical"
     android:background="@color/green_dark"
-    android:padding="24dp">
+    android:fitsSystemWindows="true">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="24dp">
 
     <!-- Header -->
     <TextView
@@ -160,7 +165,7 @@
         android:layout_height="wrap_content"
         android:orientation="horizontal"
         android:gravity="center_vertical"
-        android:paddingBottom="32dp">
+        android:paddingBottom="12dp">
 
         <TextView
             android:layout_width="wrap_content"
@@ -199,12 +204,74 @@
 
     </LinearLayout>
 
-    <!-- Divider -->
-    <View
+
+    <!-- Advanced Settings button -->
+    <Button
+        android:id="@+id/btnAdvancedSettings"
+        android:layout_width="200dp"
+        android:layout_height="48dp"
+        android:text="⚙️ Advanced Settings"
+        android:textSize="14sp"
+        android:textColor="@color/green_light"
+        android:backgroundTint="@color/green_dark"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginBottom="12dp" />
+
+    <!-- Advanced settings block — hidden by default -->
+    <LinearLayout
+        android:id="@+id/layoutAdvanced"
         android:layout_width="match_parent"
-        android:layout_height="1dp"
-        android:background="@color/green_mid"
-        android:layout_marginBottom="32dp" />
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:visibility="gone">
+
+        <!-- Divider -->
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:background="@color/green_mid"
+            android:layout_marginBottom="20dp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="🔐 Advanced Settings"
+            android:textSize="18sp"
+            android:textColor="@color/cream"
+            android:textStyle="bold"
+            android:paddingBottom="16dp" />
+
+        <!-- API Key -->
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Xeno-Canto API Key"
+            android:textSize="15sp"
+            android:textColor="@color/cream"
+            android:textStyle="bold"
+            android:paddingBottom="4dp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Your API key from xeno-canto.org/account"
+            android:textSize="12sp"
+            android:textColor="@color/green_light"
+            android:paddingBottom="8dp" />
+
+        <EditText
+            android:id="@+id/etApiKey"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:inputType="text"
+            android:textColor="@color/cream"
+            android:backgroundTint="@color/green_mid"
+            android:padding="8dp"
+            android:fontFamily="monospace"
+            android:textSize="13sp"
+            android:layout_marginBottom="24dp" />
+
+    </LinearLayout>
 
     <!-- Divider -->
     <View
@@ -225,3 +292,4 @@
         android:layout_gravity="center_horizontal" />
 
 </LinearLayout>
+</ScrollView>

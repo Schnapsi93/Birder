@@ -43,7 +43,7 @@ class MainActivity : AppCompatActivity() {
         }
 
         btnSetSpecies.setOnClickListener {
-            startActivity(Intent(this, SpeciesSelectActivity::class.java))
+            startActivity(Intent(this, SpeciesMenuActivity::class.java))
         }
 
         btnQuiz.setOnClickListener {
